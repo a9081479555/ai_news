@@ -2,6 +2,9 @@
   "timezone": "Asia/Taipei",
   "lookback_hours": 72,
   "max_items_per_feed": 60,
+  "blocked_sources": ["CMoney", "CMoney投資網誌", "Intellectia AI"],
+  "blocked_title_patterns": ["盤中", "股價", "目標價", "這檔", "大摩首選", "王澤明", "能不能站穩", "投資網誌", "technical analysis"],
+  "anonymous_title_patterns": ["他Q", "他q", "這家AI", "這家ai", "這家公司"],
   "feeds": [
     {"name": "Google News｜AI Infrastructure Taiwan", "url": "https://news.google.com/rss/search?q=AI%20server%20Taiwan%20supply%20chain&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
     {"name": "Google News｜AI伺服器供應鏈", "url": "https://news.google.com/rss/search?q=AI%E4%BC%BA%E6%9C%8D%E5%99%A8%20%E4%BE%9B%E6%87%89%E9%8F%88&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
@@ -12,7 +15,7 @@
     "CapEx／擴產": ["capex", "擴產", "擴廠", "新廠", "建廠", "產能", "設備投資"],
     "融資／籌資": ["聯貸", "借款", "公司債", "可轉債", "現金增資", "融資", "credit facility", "bond"],
     "訂單／合作／認證": ["訂單", "長約", "合作", "供應", "認證", "award", "partnership", "contract"],
-    "併購／投資": ["併購", "收購", "投資", "合資", "acquisition", "merger"],
+    "併購／投資": ["併購", "收購", "策略投資", "投資案", "投資金額", "合資", "acquisition", "merger"],
     "財務／法說": ["營收", "毛利率", "法說", "財測", "展望", "earnings", "guidance"],
     "產品／技術": ["發布", "推出", "量產", "平台", "產品", "launch", "production"],
     "風險事件": ["制裁", "出口管制", "訴訟", "中斷", "召回", "火災", "風險", "sanction", "disruption"]

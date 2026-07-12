@@ -51,9 +51,15 @@ def discover_candidates(text,known):
         if name and name not in known: found.append({'name':name,'stock_code':code,'status':'pending','evidence_gap':'須核對MOPS、公司官網及與AI Infrastructure的直接關聯。'})
     return found
 
+def blocked_item(title,source,cfg):
+    title=(title or '').lower(); source=(source or '').lower()
+    return (any(x.lower() in source for x in cfg.get('blocked_sources',[])) or
+            any(x.lower() in title for x in cfg.get('blocked_title_patterns',[])) or
+            any(x.lower() in title for x in cfg.get('anonymous_title_patterns',[])))
+
 def collect():
     cfg=read_json(CFG,{}); companies=load_known_companies(); old=read_json(QUEUE,{'items':[],'candidate_companies':[]})
-    by_id={x['id']:x for x in old.get('items',[])}; candidates={(x.get('name'),x.get('stock_code')):x for x in old.get('candidate_companies',[])}
+    by_id={x['id']:x for x in old.get('items',[]) if not blocked_item(x.get('title'),x.get('source_name'),cfg)}; candidates={(x.get('name'),x.get('stock_code')):x for x in old.get('candidate_companies',[])}
     cutoff=dt.datetime.now(UTC)-dt.timedelta(hours=cfg.get('lookback_hours',72)); errors=[]
     for feed in cfg.get('feeds',[]):
         try: root=ET.fromstring(fetch(feed['url']))
@@ -65,6 +71,7 @@ def collect():
             except ValueError: pass
             if not title or not url: continue
             source=node.find('source'); source_name=(source.text or '').strip() if source is not None else feed['name']
+            if blocked_item(title,source_name,cfg): continue
             companies_hit,subs,event,system,importance=classify(title+' '+desc,cfg,companies)
             if not companies_hit and not subs and not re.search(r'AI|人工智慧|data center|資料中心|server|伺服器',title+' '+desc,re.I): continue
             iid=item_id(title,url); existing=by_id.get(iid,{})
@@ -72,8 +79,9 @@ def collect():
             for c in discover_candidates(title+' '+desc,set(companies)):
                 key=(c['name'],c['stock_code']); candidates[key]={**c,'first_seen_news_id':iid,'source_url':url}
     items=sorted(by_id.values(),key=lambda x:x.get('published_at',''),reverse=True)
-    write_json(QUEUE,{'generated_at':now(),'items':items,'candidate_companies':list(candidates.values()),'collection_errors':errors})
-    print(f'Collected queue: {len(items)} items; candidates: {len(candidates)}; errors: {len(errors)}')
+    candidate_items=[x for x in candidates.values() if x.get('first_seen_news_id') in by_id or x.get('status')!='pending']
+    write_json(QUEUE,{'generated_at':now(),'items':items,'candidate_companies':candidate_items,'collection_errors':errors})
+    print(f'Collected queue: {len(items)} items; candidates: {len(candidate_items)}; errors: {len(errors)}')
 
 def approved_ids():
     if not APPROVED.exists(): return set()
