@@ -1,0 +1,48 @@
+{
+  "timezone": "Asia/Taipei",
+  "lookback_hours": 72,
+  "max_items_per_feed": 60,
+  "feeds": [
+    {"name": "Google News｜AI Infrastructure Taiwan", "url": "https://news.google.com/rss/search?q=AI%20server%20Taiwan%20supply%20chain&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
+    {"name": "Google News｜AI伺服器供應鏈", "url": "https://news.google.com/rss/search?q=AI%E4%BC%BA%E6%9C%8D%E5%99%A8%20%E4%BE%9B%E6%87%89%E9%8F%88&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
+    {"name": "Google News｜NVIDIA AMD Infrastructure", "url": "https://news.google.com/rss/search?q=NVIDIA%20AMD%20AI%20infrastructure%20supply%20chain&hl=en-US&gl=US&ceid=US:en"},
+    {"name": "Google News｜AI CapEx", "url": "https://news.google.com/rss/search?q=AI%20data%20center%20CapEx%20Taiwan&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"}
+  ],
+  "event_keywords": {
+    "CapEx／擴產": ["capex", "擴產", "擴廠", "新廠", "建廠", "產能", "設備投資"],
+    "融資／籌資": ["聯貸", "借款", "公司債", "可轉債", "現金增資", "融資", "credit facility", "bond"],
+    "訂單／合作／認證": ["訂單", "長約", "合作", "供應", "認證", "award", "partnership", "contract"],
+    "併購／投資": ["併購", "收購", "投資", "合資", "acquisition", "merger"],
+    "財務／法說": ["營收", "毛利率", "法說", "財測", "展望", "earnings", "guidance"],
+    "產品／技術": ["發布", "推出", "量產", "平台", "產品", "launch", "production"],
+    "風險事件": ["制裁", "出口管制", "訴訟", "中斷", "召回", "火災", "風險", "sanction", "disruption"]
+  },
+  "subindustry_keywords": {
+    "Power Conversion Subsystem": ["power shelf", "psu", "電源供應器", "電源轉換", "hvdc"],
+    "Power Distribution Subsystem": ["pdu", "busbar", "busway", "配電", "匯流排"],
+    "Backup & Energy Storage Subsystem": ["bbu", "ups", "備援電池", "儲能"],
+    "Heat Capture Subsystem": ["cold plate", "冷板", "thermal module", "散熱模組"],
+    "Coolant Distribution Subsystem": ["cdu", "manifold", "液冷分配", "冷卻液"],
+    "Facility Heat Rejection Subsystem": ["chiller", "冷水機", "cooling tower", "data center cooling"],
+    "Compute Silicon Subsystem": ["gpu", "accelerator", "asic", "ai晶片", "ai 晶片", "hpc"],
+    "Memory Subsystem": ["hbm", "ddr5", "mrdimm", "lpddr5x", "記憶體"],
+    "Semiconductor Integration Subsystem": ["cowos", "先進封裝", "osat", "probe card", "測試介面"],
+    "Compute Platform Subsystem": ["hgx", "mgx", "compute tray", "ai server", "ai伺服器", "ai 伺服器"],
+    "Switch Silicon Subsystem": ["nvswitch", "switch asic", "交換器晶片"],
+    "Switch Platform Subsystem": ["switch tray", "scale-up switch", "交換器平台"],
+    "High-Speed PCB Subsystem": ["pcb", "ccl", "銅箔基板", "玻纖布", "高階板"],
+    "Network Interface Subsystem": ["nic", "supernic", "dpu", "connectx", "bluefield"],
+    "Optical Interconnect Subsystem": ["800g", "1.6t", "optical transceiver", "光模組", "cpo"],
+    "Copper Interconnect Subsystem": ["dac", "aec", "connector", "連接器", "高速線束"],
+    "Rack Mechanical Subsystem": ["server rail", "滑軌", "chassis", "機殼", "機櫃機構"],
+    "Rack-level System Integration": ["nvl72", "rack integration", "整櫃", "l10", "l11", "l12"]
+  },
+  "system_map": {
+    "Power Conversion Subsystem": "Rack Power System", "Power Distribution Subsystem": "Rack Power System", "Backup & Energy Storage Subsystem": "Rack Power System",
+    "Heat Capture Subsystem": "Rack Liquid Cooling System", "Coolant Distribution Subsystem": "Rack Liquid Cooling System", "Facility Heat Rejection Subsystem": "Rack Liquid Cooling System",
+    "Compute Silicon Subsystem": "Compute System", "Memory Subsystem": "Compute System", "Semiconductor Integration Subsystem": "Compute System", "Compute Platform Subsystem": "Compute System",
+    "Switch Silicon Subsystem": "Scale-up Switch System", "Switch Platform Subsystem": "Scale-up Switch System", "High-Speed PCB Subsystem": "Scale-up Switch System",
+    "Network Interface Subsystem": "Rack-scale Interconnect", "Optical Interconnect Subsystem": "Rack-scale Interconnect", "Copper Interconnect Subsystem": "Rack-scale Interconnect",
+    "Rack Mechanical Subsystem": "Mechanical & Rack Integration", "Rack-level System Integration": "Mechanical & Rack Integration"
+  }
+}
