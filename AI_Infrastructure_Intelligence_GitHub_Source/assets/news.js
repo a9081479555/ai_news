@@ -1,0 +1,4 @@
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fmt=d=>{if(!d)return 'N/A';try{return new Intl.DateTimeFormat('zh-TW',{dateStyle:'medium',timeStyle:'short',timeZone:'Asia/Taipei'}).format(new Date(d))}catch{return d}};
+async function loadJSON(path,fallback){try{const r=await fetch(path,{cache:'no-store'});if(!r.ok)throw new Error(r.status);return await r.json()}catch(e){console.warn(path,e);return fallback}}
+function downloadCSV(filename,rows){const q=v=>'"'+String(v??'').replaceAll('"','""').replaceAll(/\s+/g,' ').trim()+'"',csv=rows.map(r=>r.map(q).join(',')).join('\n'),a=document.createElement('a');a.href=URL.createObjectURL(new Blob(['\ufeff'+csv],{type:'text/csv;charset=utf-8'}));a.download=filename;a.click();URL.revokeObjectURL(a.href)}

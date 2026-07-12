@@ -1,0 +1,228 @@
+﻿company,field,gap
+台積電,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=2330&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+台積電,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=2330&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+台積電,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=2330&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+日月光投控,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=3711&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+日月光投控,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=3711&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+日月光投控,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=3711&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+力成科技,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=6239&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+力成科技,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=6239&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+力成科技,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=6239&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+京元電,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=2449&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+京元電,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=2449&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+京元電,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=2449&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+旺矽,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=6223&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+旺矽,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=6223&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+旺矽,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=6223&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+中華精測,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=6510&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+中華精測,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=6510&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+中華精測,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=6510&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+辛耘,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=3583&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+辛耘,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=3583&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+辛耘,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=3583&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+萬潤,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=6187&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+萬潤,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=6187&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+萬潤,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=6187&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+環球晶,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=6488&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+環球晶,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=6488&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+環球晶,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=6488&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+家登,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=3680&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+家登,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=3680&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+家登,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=3680&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+弘塑,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=3131&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+弘塑,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=3131&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+弘塑,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=3131&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+帆宣,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=6196&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+帆宣,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=6196&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+帆宣,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=6196&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+聖暉,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=5536&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+聖暉,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=5536&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+聖暉,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=5536&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+亞翔,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=6139&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+亞翔,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=6139&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+亞翔,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=6139&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+金像電,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=2368&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+金像電,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=2368&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+金像電,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=2368&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+台光電,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=2383&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+台光電,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=2383&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+台光電,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=2383&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+台燿,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=6274&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+台燿,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=6274&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+台燿,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=6274&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+欣興,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=3037&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+欣興,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=3037&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+欣興,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=3037&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+南電,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=8046&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+南電,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=8046&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+南電,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=8046&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+景碩,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=3189&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+景碩,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=3189&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+景碩,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=3189&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+台達電,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=2308&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+台達電,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=2308&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+台達電,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=2308&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+光寶科,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=2301&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+光寶科,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=2301&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+光寶科,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=2301&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+全漢,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=3015&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+全漢,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=3015&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+全漢,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=3015&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+國巨,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=2327&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+國巨,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=2327&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+國巨,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=2327&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+華新科,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=2492&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+華新科,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=2492&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+華新科,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=2492&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+台半,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=5425&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+台半,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=5425&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+台半,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=5425&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+嘉澤,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=3533&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+嘉澤,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=3533&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+嘉澤,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=3533&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+貿聯-KY,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=3665&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+貿聯-KY,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=3665&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+貿聯-KY,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=3665&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+新普,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=6121&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+新普,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=6121&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+新普,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=6121&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+雙鴻,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=3324&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+雙鴻,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=3324&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+雙鴻,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=3324&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+奇鋐,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=3017&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+奇鋐,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=3017&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+奇鋐,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=3017&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+健策,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=3653&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+健策,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=3653&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+健策,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=3653&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+泰碩,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=3338&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+泰碩,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=3338&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+泰碩,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=3338&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+建準,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=2421&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+建準,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=2421&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+建準,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=2421&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+高力,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=8996&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+高力,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=8996&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+高力,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=8996&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+鴻海,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=2317&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+鴻海,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=2317&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+鴻海,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=2317&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+廣達,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=2382&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+廣達,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=2382&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+廣達,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=2382&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+緯穎,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=6669&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+緯穎,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=6669&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+緯穎,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=6669&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+緯創,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=3231&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+緯創,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=3231&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+緯創,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=3231&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+英業達,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=2356&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+英業達,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=2356&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+英業達,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=2356&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+和碩,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=4938&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+和碩,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=4938&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+和碩,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=4938&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+智邦,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=2345&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+智邦,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=2345&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+智邦,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=2345&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+上詮,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=3363&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+上詮,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=3363&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+上詮,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=3363&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+波若威,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=3163&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+波若威,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=3163&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+波若威,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=3163&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+良維,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=6290&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+良維,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=6290&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+良維,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=6290&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+正崴,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=2392&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+正崴,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=2392&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+正崴,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=2392&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+川湖,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=2059&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+川湖,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=2059&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+川湖,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=2059&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+勤誠,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=8210&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+勤誠,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=8210&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+勤誠,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=8210&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+可成,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=2474&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+可成,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=2474&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+可成,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=2474&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+富世達,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=6805&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+富世達,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=6805&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+富世達,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=6805&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+南俊國際,balance,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb03?step=1&CO_ID=6584&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+南俊國際,income,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb04?step=1&CO_ID=6584&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+南俊國際,cashflow,fetch failed after 3 attempts: https://mops.twse.com.tw/server-java/t164sb05?step=1&CO_ID=6584&SYEAR=114&SSEASON=4&REPORT_ID=C: HTTP Error 404: 
+NVIDIA,all financial metrics,No listed-company code or complete public financial statements
+Broadcom,all financial metrics,No listed-company code or complete public financial statements
+Backup & Energy Storage Subsystem,profitability_raw,Insufficient public data; score remains N/A
+Backup & Energy Storage Subsystem,growth_raw,Insufficient public data; score remains N/A
+Backup & Energy Storage Subsystem,investment_raw,Insufficient public data; score remains N/A
+Backup & Energy Storage Subsystem,operating_raw,Insufficient public data; score remains N/A
+Compute Platform Subsystem,profitability_raw,Insufficient public data; score remains N/A
+Compute Platform Subsystem,growth_raw,Insufficient public data; score remains N/A
+Compute Platform Subsystem,investment_raw,Insufficient public data; score remains N/A
+Compute Platform Subsystem,operating_raw,Insufficient public data; score remains N/A
+Compute Silicon Subsystem,profitability_raw,Insufficient public data; score remains N/A
+Compute Silicon Subsystem,growth_raw,Insufficient public data; score remains N/A
+Compute Silicon Subsystem,investment_raw,Insufficient public data; score remains N/A
+Compute Silicon Subsystem,operating_raw,Insufficient public data; score remains N/A
+Coolant Distribution Subsystem,profitability_raw,Insufficient public data; score remains N/A
+Coolant Distribution Subsystem,growth_raw,Insufficient public data; score remains N/A
+Coolant Distribution Subsystem,investment_raw,Insufficient public data; score remains N/A
+Coolant Distribution Subsystem,operating_raw,Insufficient public data; score remains N/A
+Copper Interconnect Subsystem,profitability_raw,Insufficient public data; score remains N/A
+Copper Interconnect Subsystem,growth_raw,Insufficient public data; score remains N/A
+Copper Interconnect Subsystem,investment_raw,Insufficient public data; score remains N/A
+Copper Interconnect Subsystem,operating_raw,Insufficient public data; score remains N/A
+Facility Heat Rejection Subsystem,profitability_raw,Insufficient public data; score remains N/A
+Facility Heat Rejection Subsystem,growth_raw,Insufficient public data; score remains N/A
+Facility Heat Rejection Subsystem,investment_raw,Insufficient public data; score remains N/A
+Facility Heat Rejection Subsystem,operating_raw,Insufficient public data; score remains N/A
+Heat Capture Subsystem,profitability_raw,Insufficient public data; score remains N/A
+Heat Capture Subsystem,growth_raw,Insufficient public data; score remains N/A
+Heat Capture Subsystem,investment_raw,Insufficient public data; score remains N/A
+Heat Capture Subsystem,operating_raw,Insufficient public data; score remains N/A
+High-Speed PCB Subsystem,profitability_raw,Insufficient public data; score remains N/A
+High-Speed PCB Subsystem,growth_raw,Insufficient public data; score remains N/A
+High-Speed PCB Subsystem,investment_raw,Insufficient public data; score remains N/A
+High-Speed PCB Subsystem,operating_raw,Insufficient public data; score remains N/A
+Memory Subsystem,profitability_raw,Insufficient public data; score remains N/A
+Memory Subsystem,growth_raw,Insufficient public data; score remains N/A
+Memory Subsystem,investment_raw,Insufficient public data; score remains N/A
+Memory Subsystem,operating_raw,Insufficient public data; score remains N/A
+Network Interface Subsystem,profitability_raw,Insufficient public data; score remains N/A
+Network Interface Subsystem,growth_raw,Insufficient public data; score remains N/A
+Network Interface Subsystem,investment_raw,Insufficient public data; score remains N/A
+Network Interface Subsystem,operating_raw,Insufficient public data; score remains N/A
+Optical Interconnect Subsystem,profitability_raw,Insufficient public data; score remains N/A
+Optical Interconnect Subsystem,growth_raw,Insufficient public data; score remains N/A
+Optical Interconnect Subsystem,investment_raw,Insufficient public data; score remains N/A
+Optical Interconnect Subsystem,operating_raw,Insufficient public data; score remains N/A
+Power Conversion Subsystem,profitability_raw,Insufficient public data; score remains N/A
+Power Conversion Subsystem,growth_raw,Insufficient public data; score remains N/A
+Power Conversion Subsystem,investment_raw,Insufficient public data; score remains N/A
+Power Conversion Subsystem,operating_raw,Insufficient public data; score remains N/A
+Power Distribution Subsystem,profitability_raw,Insufficient public data; score remains N/A
+Power Distribution Subsystem,growth_raw,Insufficient public data; score remains N/A
+Power Distribution Subsystem,investment_raw,Insufficient public data; score remains N/A
+Power Distribution Subsystem,operating_raw,Insufficient public data; score remains N/A
+Rack Mechanical Subsystem,profitability_raw,Insufficient public data; score remains N/A
+Rack Mechanical Subsystem,growth_raw,Insufficient public data; score remains N/A
+Rack Mechanical Subsystem,investment_raw,Insufficient public data; score remains N/A
+Rack Mechanical Subsystem,operating_raw,Insufficient public data; score remains N/A
+Rack-level System Integration,profitability_raw,Insufficient public data; score remains N/A
+Rack-level System Integration,growth_raw,Insufficient public data; score remains N/A
+Rack-level System Integration,investment_raw,Insufficient public data; score remains N/A
+Rack-level System Integration,operating_raw,Insufficient public data; score remains N/A
+Semiconductor Integration Subsystem,profitability_raw,Insufficient public data; score remains N/A
+Semiconductor Integration Subsystem,growth_raw,Insufficient public data; score remains N/A
+Semiconductor Integration Subsystem,investment_raw,Insufficient public data; score remains N/A
+Semiconductor Integration Subsystem,operating_raw,Insufficient public data; score remains N/A
+Switch Platform Subsystem,profitability_raw,Insufficient public data; score remains N/A
+Switch Platform Subsystem,growth_raw,Insufficient public data; score remains N/A
+Switch Platform Subsystem,investment_raw,Insufficient public data; score remains N/A
+Switch Platform Subsystem,operating_raw,Insufficient public data; score remains N/A
+Switch Silicon Subsystem,profitability_raw,Insufficient public data; score remains N/A
+Switch Silicon Subsystem,growth_raw,Insufficient public data; score remains N/A
+Switch Silicon Subsystem,investment_raw,Insufficient public data; score remains N/A
+Switch Silicon Subsystem,operating_raw,Insufficient public data; score remains N/A
