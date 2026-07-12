@@ -1,0 +1,35 @@
+name: Publish approved news and weekly intelligence
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'config/approved_news_ids.txt'
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Publish explicitly approved news
+        run: python scripts/news_pipeline.py publish
+
+      - name: Generate weekly intelligence
+        run: python scripts/news_pipeline.py weekly
+
+      - name: Commit approved public output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/public/news.json data/public/weekly.json
+          git diff --cached --quiet || git commit -m "publish: approved news and weekly intelligence"
+          git push
