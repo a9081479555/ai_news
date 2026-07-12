@@ -75,7 +75,8 @@ def collect():
             companies_hit,subs,event,system,importance=classify(title+' '+desc,cfg,companies)
             if not companies_hit and not subs and not re.search(r'AI|人工智慧|data center|資料中心|server|伺服器',title+' '+desc,re.I): continue
             iid=item_id(title,url); existing=by_id.get(iid,{})
-            by_id[iid]={**existing,'id':iid,'status':existing.get('status','pending'),'title':title,'url':url,'published_at':published,'collected_at':now(),'source_name':source_name,'source_domain':urlparse(url).netloc,'summary':desc[:800],'companies':companies_hit,'subindustries':subs,'system':system,'event_type':event,'importance':importance,'evidence_grade':'C','banking_implication':'待人工審核後補充。','evidence_gap':'目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。'}
+            domain=urlparse(url).netloc.lower(); official=any(domain==d or domain.endswith('.'+d) for d in cfg.get('official_domains',[]))
+            by_id[iid]={**existing,'id':iid,'status':existing.get('status','pending'),'title':title,'url':url,'published_at':published,'collected_at':now(),'source_name':source_name,'source_domain':domain,'summary':desc[:800],'companies':companies_hit,'subindustries':subs,'system':system,'event_type':event,'importance':importance,'evidence_grade':'A' if official else 'C','banking_implication':'待人工審核後補充。','evidence_gap':'官方來源仍須依原文範圍解讀，不外推至未揭露客戶、BOM或訂單。' if official else '目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。'}
             for c in discover_candidates(title+' '+desc,set(companies)):
                 key=(c['name'],c['stock_code']); candidates[key]={**c,'first_seen_news_id':iid,'source_url':url}
     items=sorted(by_id.values(),key=lambda x:x.get('published_at',''),reverse=True)
