@@ -1,6 +1,6 @@
 {
   "timezone": "Asia/Taipei",
-  "lookback_hours": 72,
+  "lookback_hours": 720,
   "max_items_per_feed": 60,
   "blocked_sources": ["CMoney", "CMoney投資網誌", "Intellectia AI"],
   "blocked_title_patterns": ["盤中", "股價", "目標價", "這檔", "大摩首選", "王澤明", "能不能站穩", "投資網誌", "technical analysis"],
