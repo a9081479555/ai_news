@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T03:54:55Z",
+  "generated_at": "2026-09-23T14:06:27Z",
   "items": [
     {
       "id": "fee57f4ed7482aea7832",
@@ -4434,7 +4434,7 @@
       "title": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
       "url": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
       "published_at": "2026-09-10T09:00:00Z",
-      "collected_at": "2026-09-23T03:54:53Z",
+      "collected_at": "2026-09-23T14:05:57Z",
       "source_name": "NVIDIA Official｜Press Releases",
       "source_domain": "nvidianews.nvidia.com",
       "summary": "Palantir Technologies Inc. (NASDAQ: PLTR) and NVIDIA (NASDAQ: NVDA) today announced a collaboration to bring sovereign AI to critical supply chains, starting with NVIDIA’s own operations.",
@@ -4555,7 +4555,7 @@
       "title": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem",
       "url": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
       "published_at": "2026-09-10T00:00:00Z",
-      "collected_at": "2026-09-23T03:54:53Z",
+      "collected_at": "2026-09-23T14:05:57Z",
       "source_name": "NVIDIA Official｜Press Releases",
       "source_domain": "nvidianews.nvidia.com",
       "summary": "NVIDIA today announced that it is collaborating with a growing ecosystem of Australian NVIDIA Cloud Partners (NCPs) and AI infrastructure partners to expand land, power and shell capacity designed to host multiple generations of NVIDIA DSX™ AI factories, supporting the nation’s growing demand for AI compute — with up to a 2-gigawatt buildout by 2027.",
@@ -8368,7 +8368,7 @@
       "title": "NVIDIA and MediaTek Deepen Long-Standing Partnership to Build AI Edge to Cloud Computing Platforms",
       "url": "https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms",
       "published_at": "2026-08-31T12:30:00Z",
-      "collected_at": "2026-09-23T03:54:53Z",
+      "collected_at": "2026-09-23T14:05:57Z",
       "source_name": "NVIDIA Official｜Press Releases",
       "source_domain": "nvidianews.nvidia.com",
       "summary": "NVIDIA and MediaTek today announced a deepening of their longstanding collaboration to build the next generations of AI computing platforms — spanning AI infrastructure, local AI computing and automotive.",
@@ -8387,7 +8387,7 @@
       "title": "AMD, Cisco and HUMAIN Expand Saudi Arabia’s AI Infrastructure as AMD Instinct Systems Go Live",
       "url": "https://ir.amd.com/news-events/press-releases/detail/1298/amd-cisco-and-humain-expand-saudi-arabias-ai-infrastructure-as-amd-instinct-systems-go-live",
       "published_at": "2026-08-31T11:15:00Z",
-      "collected_at": "2026-09-23T03:54:53Z",
+      "collected_at": "2026-09-23T14:05:57Z",
       "source_name": "AMD Official｜Press Releases",
       "source_domain": "ir.amd.com",
       "summary": "",
@@ -9786,7 +9786,7 @@
       "title": "AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI",
       "url": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
       "published_at": "2026-08-26T21:05:00Z",
-      "collected_at": "2026-09-23T03:54:53Z",
+      "collected_at": "2026-09-23T14:05:57Z",
       "source_name": "NVIDIA Official｜Press Releases",
       "source_domain": "nvidianews.nvidia.com",
       "summary": "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and NVIDIA (NASDAQ: NVDA) today announced a major expansion of their strategic collaboration to meet surging global demand for AI infrastructure as demand continues to accelerate.",
@@ -10134,7 +10134,7 @@
       "title": "NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI",
       "url": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
       "published_at": "2026-08-25T15:00:00Z",
-      "collected_at": "2026-09-23T03:54:53Z",
+      "collected_at": "2026-09-23T14:05:57Z",
       "source_name": "NVIDIA Official｜Press Releases",
       "source_domain": "nvidianews.nvidia.com",
       "summary": "NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.",
@@ -10410,7 +10410,7 @@
       "title": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI",
       "url": "https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai",
       "published_at": "2026-08-24T15:00:00Z",
-      "collected_at": "2026-09-23T03:54:53Z",
+      "collected_at": "2026-09-23T14:05:57Z",
       "source_name": "NVIDIA Official｜Press Releases",
       "source_domain": "nvidianews.nvidia.com",
       "summary": "NVIDIA today announced that NVIDIA Groq 3 LPX, the interactive AI inference accelerator, is now in full production. An extension of the NVIDIA Vera Rubin platform, Groq 3 LPX delivers a major boost in AI inference by enabling ultrafast token generation for highly responsive agentic systems.",
@@ -10431,7 +10431,7 @@
       "title": "SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale",
       "url": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale",
       "published_at": "2026-08-24T15:00:00Z",
-      "collected_at": "2026-09-23T03:54:53Z",
+      "collected_at": "2026-09-23T14:05:57Z",
       "source_name": "NVIDIA Official｜Press Releases",
       "source_domain": "nvidianews.nvidia.com",
       "summary": "NVIDIA today announced that SpaceXAI will deploy NVIDIA Vera CPUs to accelerate its next generation of agentic AI applications, bringing the first CPU built for AI agents to one of the world’s most ambitious AI deployments.",
@@ -28003,5 +28003,22 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVRwWXpuY2luZUZqTkpwdXBWa2s0Y0pwOHg1bE1aeDBQWFdrRnZ5RzRaMlhEOEFiUFkzTHlCRTAxZXc4c21JeFRES19mZHlVZ05tUEJTTWdIZ1FDenY5d3JKWG1lWVlTV0tEbjltT2ZPUndxTUN1QW1NQ2ppN1RsSHAyRlUwLWpE?oc=5"
     }
   ],
-  "collection_errors": []
+  "collection_errors": [
+    {
+      "feed": "Google News｜AI Infrastructure Taiwan",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "feed": "Google News｜AI伺服器供應鏈",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "feed": "Google News｜NVIDIA AMD Infrastructure",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "feed": "Google News｜AI CapEx",
+      "error": "HTTP Error 503: Service Unavailable"
+    }
+  ]
 }
