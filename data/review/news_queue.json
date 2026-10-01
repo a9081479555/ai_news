@@ -1,13 +1,250 @@
 {
-  "generated_at": "2026-10-01T04:52:39Z",
+  "generated_at": "2026-10-01T16:02:02Z",
   "items": [
+    {
+      "id": "972d799c168834a124c0",
+      "status": "pending",
+      "title": "AI供應鏈資金輪動！最新台股登四萬八新高，被動元件齊漲停，國巨吸金410億-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ044eDd5QlhmVWczVTB2TEE1c1EyRjJtUzRDQjRIajljdUhwQWZ2aGxZZ09LeTJiWVVlbHJLMEtKN1YwZEFNU0dpRXA0MHVJVmtXeDJLdFdDbF9TOEtYNThJTkViOFF1MWkwd2xMVkdTQmprR2NKTzhGTWZyc0JmczVR?oc=5",
+      "published_at": "2026-10-01T15:45:11Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI供應鏈資金輪動！最新台股登四萬八新高，被動元件齊漲停，國巨吸金410億-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "國巨"
+      ],
+      "subindustries": [],
+      "system": "跨系統／待分類",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "85fcbb2a16983eb5c954",
+      "status": "pending",
+      "title": "AI伺服器與記憶體供應鏈齊揚！雲端資本支出大增，帶動和碩等概念股出貨-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRV9Cd2YzZkNDYzlvbUVuUmxiYzBGTlJZaXQ0amlyOG9vczlyXzc2WE9meEdGeHdtSXRkdzl2U3FaSUtmMVlSWkd4bTZEYlRJNkFPZURJU1R4RzBZek5feFhubjhVeWQ2UTZCR202ZGtCV3NfOEd1dVBaaGstbnFxUXpR?oc=5",
+      "published_at": "2026-10-01T14:45:31Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器與記憶體供應鏈齊揚！雲端資本支出大增，帶動和碩等概念股出貨-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "和碩"
+      ],
+      "subindustries": [
+        "Memory Subsystem",
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "ce2e864720f1a2e40053",
+      "status": "pending",
+      "title": "輝達Vera Rubin放量在即！「AI伺服器大廠」Q4業務拚今年高峰 八大公股賣超4.7億元逾2千張 - FTNN",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5PbkxxXzlzSUJGOUVvT01KUjl0cDdrYlgtZE9SUm5XcDk3Yl9zNDE2a213QVpuRmZ3YnotOWQ4NzExYm94d1hUSDRLNA?oc=5",
+      "published_at": "2026-10-01T14:30:00Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "FTNN",
+      "source_domain": "news.google.com",
+      "summary": "輝達Vera Rubin放量在即！「AI伺服器大廠」Q4業務拚今年高峰 八大公股賣超4.7億元逾2千張 FTNN",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "其他重要事件",
+      "importance": "Medium",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "c7f89e8d85e8796621f9",
+      "status": "pending",
+      "title": "AI伺服器機櫃出貨放量！高毛利系統組裝攀至18%，帶旺機殼廠晟銘電-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcEZBNl9JbzFfbTVVTGJCZkNSUk04MXNGWm9adEtVS1Bpdk0xTzFhSGduVmMtVm1LREtrT3RkSXd1UTliMnhyR2ZnX0tZVk80Q2dabkZVY250WEZ2WjVxUVdOakxZbGVsankyeUZoTmo3NldNWHNSb2hRWm9BeThtY3ZR?oc=5",
+      "published_at": "2026-10-01T12:14:55Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器機櫃出貨放量！高毛利系統組裝攀至18%，帶旺機殼廠晟銘電-財經焦點情報站 cmnews.com.tw",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem",
+        "Rack Mechanical Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "其他重要事件",
+      "importance": "Medium",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "fbcb2051fb36138c73c3",
+      "status": "pending",
+      "title": "GPU 用三年就折舊？a16z 報告：AI 建設規模已超越鐵路時代 - abmedia.io",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMTjNUSlk2dEJnSjN1V2VhVUMzbGVGV245VTdicDNZbnV4N2hUX1RGRmM4c2Yzby1HRnZDcGUyOC1fMXFrb0JTamUxQUU1dnNHNDd1eTFtU1BlMjhyVFFFaTJzMA?oc=5",
+      "published_at": "2026-10-01T10:14:28Z",
+      "collected_at": "2026-10-01T16:02:02Z",
+      "source_name": "abmedia.io",
+      "source_domain": "news.google.com",
+      "summary": "GPU 用三年就折舊？a16z 報告：AI 建設規模已超越鐵路時代 abmedia.io",
+      "companies": [],
+      "subindustries": [
+        "Compute Silicon Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "其他重要事件",
+      "importance": "Medium",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "c129aef77be6d3d18409",
+      "status": "pending",
+      "title": "記憶體擴產潮！半導體產值衝1.6兆美元，美光領軍帆宣等供應鏈出海-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU0F5dUpmbXNjWEpYZWxMc3p2WS1KX1hsMUg5WmVuYV9TclFzZC12QTVab0NPNW0yX19wUjVpLXAyQXBaSmlFVlJSNDJPZW9iM0dqUDRXOGRBcGF5UUJlRFRXWk4xMkRfSEQ4a1FGZ0N6bjRvWFg4SXN4cGtfb2FUNVBB?oc=5",
+      "published_at": "2026-10-01T08:44:59Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "記憶體擴產潮！半導體產值衝1.6兆美元，美光領軍帆宣等供應鏈出海-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "帆宣"
+      ],
+      "subindustries": [
+        "Memory Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "CapEx／擴產",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "6e5ee1dfd924220bc9fa",
+      "status": "pending",
+      "title": "AI、半導體供應鏈台中精密園區7年新進投資96.7億元 相關產業占逾4成 | 王秀禾 | 地方新聞 - Storm.mg",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBbGVmZ1RZVnBXUlNHd0hUY3VNSy1TaFQyb3VFcDltd0c4X3E1dTZfb2NNeTdxNHhOMlFocGNqcGI1OU53TzFoS1JYODJNQQ?oc=5",
+      "published_at": "2026-10-01T06:43:00Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "Storm.mg",
+      "source_domain": "news.google.com",
+      "summary": "AI、半導體供應鏈台中精密園區7年新進投資96.7億元 相關產業占逾4成 | 王秀禾 | 地方新聞 Storm.mg",
+      "companies": [],
+      "subindustries": [],
+      "system": "跨系統／待分類",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "1f353c42fa5e0a54355f",
+      "status": "pending",
+      "title": "AI伺服器供應鏈進入出貨期，9月營收能否驗證拉貨延續？-跟著大資走 澤明 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVExKNVlYUkstcWNoeFFHc1Qxc0RTcmZBYVlzNlNLRERTZjFaZmg4bzd5TXdpN3R1RlMyZVR3X2xfQVBlU1dCUGo5d2RqSFM4N3F4OXh6Q2IwX0xRTkFveGQ2WU1LLXdTVFptN2JMSmpscktZc2pubUE4RlktUVh4MkRfTQ?oc=5",
+      "published_at": "2026-10-01T04:27:27Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器供應鏈進入出貨期，9月營收能否驗證拉貨延續？-跟著大資走 澤明 cmnews.com.tw",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "4bfa0644870f37c8d2b2",
+      "status": "pending",
+      "title": "外資砸近140億加碼台灣，AI伺服器海外擴產誰先受惠？-許明哲的產業筆記本 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRHUxeHluX2RLc0VHallMQk9ZSVQ3X3FXUlJFUFNEc1g2TnIyUkluaTB3Qm9TLUd0aktWaHRjRXdEcjBxR2tyMG5jdFZpSDFSbFl5cDF3RE5tenJvTHpRR1lyUXc0Y005UVVXR2RCV0ptRHZUQTcwRnZJVHplVnZPOFl3?oc=5",
+      "published_at": "2026-10-01T04:16:19Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "外資砸近140億加碼台灣，AI伺服器海外擴產誰先受惠？-許明哲的產業筆記本 cmnews.com.tw",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "CapEx／擴產",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "274f9dda2a4bb80d648e",
+      "status": "pending",
+      "title": "AI伺服器最新出貨動能曝光！GB300組裝量超前，和碩營收比重挑戰一成-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMEtuR1VXMFNHZ1VFcENDejMxM1Vjb3l1M3VKZFlWYjJBaDlhVGJKaGlwSHlmSVN0RzhGbHRBckNXOXVEdDNWMGtOakFNaF91LW1YazhVU2p1WkVfSGFmNlhQVXhTR2xvanVRMjRPeVB2ekxnWXBtNG5XWEpMS0tvSk9B?oc=5",
+      "published_at": "2026-10-01T04:15:01Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器最新出貨動能曝光！GB300組裝量超前，和碩營收比重挑戰一成-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "和碩"
+      ],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "財務／法說",
+      "importance": "Medium",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "238c44d5199773759bed",
+      "status": "pending",
+      "title": "未來城市＠天下｜AI供應鏈是什麼？台灣AI供應鏈有哪些公司？從晶片、AI伺服器到智慧城市，完整解析上中下游 - 未來城市＠天下",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOXN3ZW5DbUlZNk1FRlg4Y0RHV1lJa0ZTdDdNX1RoUjBFZk5vaDAzazdFMUpsaHc1R3RNejdJN0RHZWtIUjNLeGowS2d3ZzAyMTdiaEdsMDM5R3QyZG91cEtIdVZ4SDJwSV9fZWt3U3hySU1UVDNnby0zeHdMb3pCVA?oc=5",
+      "published_at": "2026-10-01T04:14:54Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "未來城市＠天下",
+      "source_domain": "news.google.com",
+      "summary": "未來城市＠天下｜AI供應鏈是什麼？台灣AI供應鏈有哪些公司？從晶片、AI伺服器到智慧城市，完整解析上中下游 未來城市＠天下",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
     {
       "id": "2eefe93f1f6b5d2c748e",
       "status": "pending",
       "title": "AI、半導體供應鏈加速進駐！台中精密園區7年新進投資96.7億元 相關產業占逾4成 - taichung.gov.tw",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSN3E1alUtakVaZWxka2pWMkdCek83OTk1SzM4bHFPMFZDVVVpYzQ2Mml0NThHTWlwS0hKTVMzZkJUQ29xSTdJUWVvUkdzQlhFUFE?oc=5",
       "published_at": "2026-10-01T04:07:30Z",
-      "collected_at": "2026-10-01T04:52:39Z",
+      "collected_at": "2026-10-01T16:02:01Z",
       "source_name": "taichung.gov.tw",
       "source_domain": "news.google.com",
       "summary": "AI、半導體供應鏈加速進駐！台中精密園區7年新進投資96.7億元 相關產業占逾4成 taichung.gov.tw",
@@ -26,7 +263,7 @@
       "title": "和碩AI伺服器團隊逾千人，今年營收佔比拚一成- 新聞 - MoneyDJ理財網",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWmUwR280TWxqbC1xblc4TG1YNFdPQm5hcmhCSzdETmNQVDZqTzRYdjFpNzhGcnFUdnFDRk9YOUxKMEtfZVNNZUctQ1lBRnp1aVBIakMzeHZ2NG1XQjgyRnlONXF6NWRtUEJRck93bFBwWmJ4UlRCS2dSS21DY0xpeGNYWWRfZ05fczJBZ1BCNm5lUQ?oc=5",
       "published_at": "2026-10-01T04:02:00Z",
-      "collected_at": "2026-10-01T04:52:39Z",
+      "collected_at": "2026-10-01T16:02:01Z",
       "source_name": "MoneyDJ理財網",
       "source_domain": "news.google.com",
       "summary": "和碩AI伺服器團隊逾千人，今年營收佔比拚一成- 新聞 MoneyDJ理財網",
@@ -38,6 +275,25 @@
       ],
       "system": "Compute System",
       "event_type": "財務／法說",
+      "importance": "Medium",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "317e902681c9b48164de",
+      "status": "pending",
+      "title": "南科串聯沙崙雙算力核心 臺南搶攻AI研發與智慧製造商機 - yesmedia.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOVF9HbHdyOGZtYUU0bHpxWHdZbUZQQ0huSjBtaDlCTjZkS0JLWlVWZGM2YjJnYURyeTZoekF1clplYkpsZkdNRERaSVlwUFE1MjZRQ01adXdmRW9kcUZKWWFkc3g3NkFCZnRKU3NCQ0FqQTVhV0lIeDZPWTBmWFh3X3hqcWp2UDBaQldaaVBPbm43Q0dXRHNXOTBSVGdHZHNDNUtUYXpleTdhMWpEdEEtVENKOTY5ZWZJOU9zTU1XMHQzeF9PMUZYM2d1VzVVU2V6VmtjRW1hT1c3dmoxMFBfVE42b0laNFJMNkZ6WnFzVmtNWUd0VUg2d2xGQmh2ekJnSU9wb3l3ZXZFTjd6V2s4RGNFV0RVQWFXUjVKZ3RwV0x5dTY0RDIyV1ZIVXZkTUZRcFZVWDdZdUxCSE4ycnBSR1AwaUlJQl9BV2xPbm93?oc=5",
+      "published_at": "2026-10-01T03:45:41Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "yesmedia.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "南科串聯沙崙雙算力核心 臺南搶攻AI研發與智慧製造商機 yesmedia.com.tw",
+      "companies": [],
+      "subindustries": [],
+      "system": "跨系統／待分類",
+      "event_type": "其他重要事件",
       "importance": "Medium",
       "evidence_grade": "C",
       "banking_implication": "待人工審核後補充。",
@@ -72,6 +328,25 @@
       "source_name": "DIGITIMES",
       "source_domain": "news.google.com",
       "summary": "AI需求造就美國供電緊俏 能源新貴將成IT設備潛在買家 DIGITIMES",
+      "companies": [],
+      "subindustries": [],
+      "system": "跨系統／待分類",
+      "event_type": "其他重要事件",
+      "importance": "Medium",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "ad0d90269fa30896e4c0",
+      "status": "pending",
+      "title": "Meta Muse AI爆紅！AI Agent概念股有哪些？台灣受惠股一次看- 財經新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaU5oc2c3ODhvRWVpOHp3OGdiX3Z3d3hxYVJiaUM1SGYxSGEzMDlQX1BJZlVwTVRGeEhTY3ZQTDdqLUhSNE93Nk8wWXRvOTF4MHBTNDRHLU9MckM0RERUNXh6UElTck51ZjJkUlhjOUVtckNCU0tlZksxQ3B4RGpUOVo0R0J4bG8?oc=5",
+      "published_at": "2026-10-01T03:38:00Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "PChome Online 新聞",
+      "source_domain": "news.google.com",
+      "summary": "Meta Muse AI爆紅！AI Agent概念股有哪些？台灣受惠股一次看- 財經新聞 PChome Online 新聞",
       "companies": [],
       "subindustries": [],
       "system": "跨系統／待分類",
@@ -126,12 +401,140 @@
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
     },
     {
+      "id": "f7c06d02c8a623389c8b",
+      "status": "pending",
+      "title": "AI資料中心掀儲能新商機 BBU需求爆發、中國與台灣供應鏈搶商機 - uanalyze.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xcEJpdFJ3b0hiSHVuRzY0Z2dIRk1DM29DeG9YbEZtcjM3cldCdUtIc2pMXzVUSXc5WnE4MHEydGkxWGFoY1RkVGZQMmhVUkNJNng1LURn?oc=5",
+      "published_at": "2026-10-01T01:43:18Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "uanalyze.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI資料中心掀儲能新商機 BBU需求爆發、中國與台灣供應鏈搶商機 uanalyze.com.tw",
+      "companies": [],
+      "subindustries": [
+        "Backup & Energy Storage Subsystem"
+      ],
+      "system": "Rack Power System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "d0485f5331012bb3b0ab",
+      "status": "pending",
+      "title": "AI算力基建引爆記憶體需求與能源轉型，美光營收飆增帶動3檔台廠供應鏈-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOemoyNDY0Y1pEeWh5TUFsd0NzbDF1c3pGZUNIelNDYnhxMENUdDVWaUdpdGw1NTcwN2VRWFdnUkVic0l0RzdMRW1uRnVGSG4zaTFTTUxpSi1DVEZBNi1EckhGYmdDb3BxM1NmOWdWUzlqY0hlOXV0MklmYzYwYXpWZE1R?oc=5",
+      "published_at": "2026-10-01T00:44:49Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI算力基建引爆記憶體需求與能源轉型，美光營收飆增帶動3檔台廠供應鏈-財經焦點情報站 cmnews.com.tw",
+      "companies": [],
+      "subindustries": [
+        "Memory Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "7e60dbd237b7b3f352dc",
+      "status": "pending",
+      "title": "AI算力合約衝上845億美元，台廠供應鏈能吃到多久？-跟著大資走 澤明 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTkZRTHlfUkhpUFN4NGZNQVhEWUhCaFQ2a2R0Ri05TGRfMHpnR29QNUV3ZzY1UF9Yd2tTYjVYTTdQZEo4MU1SNkxWVno5Skp0S0pEY3psQ1pnTWZmTEgyMFpjUTdIbGZ6ckc5a0dPbVgzeWlvWWlUUGFsbXMwdEJrWWNWVQ?oc=5",
+      "published_at": "2026-10-01T00:27:29Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI算力合約衝上845億美元，台廠供應鏈能吃到多久？-跟著大資走 澤明 cmnews.com.tw",
+      "companies": [],
+      "subindustries": [],
+      "system": "跨系統／待分類",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "4366ff1149622ef9725b",
+      "status": "pending",
+      "title": "主動式ETF加碼半導體與AI伺服器，資金會擴散到誰？-林彥廷看盤室 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOWViUjhITDFXWlJxNVNxTnlPYl92SC1TN20yMENRZGdWWVRqYzBWb2lMUDhtUGpJeE1ZVlBQQjhUV1piWV9vVmp0RjVzYk1yalR4V09jTnBZREcwX0hnNlJNU3JOUVV6WmlERl9HamZzdExhTjA3U1F3M3FyVEJ5SjVTaw?oc=5",
+      "published_at": "2026-10-01T00:03:16Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "主動式ETF加碼半導體與AI伺服器，資金會擴散到誰？-林彥廷看盤室 cmnews.com.tw",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "其他重要事件",
+      "importance": "Medium",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "387a891d0bb84bb2f0a2",
+      "status": "pending",
+      "title": "AI伺服器供應鏈迎千億商機！兩巨頭擴充算力，廣達等台廠受惠-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQelhldGhiZ1hualZLSXdHRmZCVXB2d0FScVZ4d2lnQVlBMWFHeFBmV1BEMF9nMnNNQm9jdzJZOThOVU5NTXRvbVR6UWgxSWZDYmI3TjBqbjRmN0pFUXFxczgwWGUxcjZNaHNNTF9YSjZ4QTdkVzhUUjJyeEY2UV9NYjF3?oc=5",
+      "published_at": "2026-09-30T20:14:51Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器供應鏈迎千億商機！兩巨頭擴充算力，廣達等台廠受惠-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "廣達"
+      ],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "b4d3366468c2f2e2dbba",
+      "status": "pending",
+      "title": "AI伺服器供應鏈迎建置潮！半導體ETF吸逾45萬人，台積電等廠受惠-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM1h6UnVMNkNPejhxTmpLTzYzMHRSenNMcVg0eHhtOS1vc3NpaU9LaHNKWmt3LVowVktmMEgzQmNXNlpUZUkzbm1kV0s0V1o2ei1URTFmM2xPQWxVUnUzRXlick9xbndVeHNkR2NXLTdtZDZOYVZXeFAyY08yMlh2YlJn?oc=5",
+      "published_at": "2026-09-30T18:44:54Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器供應鏈迎建置潮！半導體ETF吸逾45萬人，台積電等廠受惠-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "台積電"
+      ],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
       "id": "b3d0230f5dadf88ce74e",
       "status": "pending",
       "title": "OpenAI 代理出擊 預期引爆更多伺服器需求 台鏈補 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzS2RiX2ptQjFJTlJsb3RPM0dTaUVGTS1VenhXNDVMaGNVaGlhVldHSktnT2lqR2djcFFlZzU3OUFRelZkcDZqYTYzTHdHS0RRdUxaRDE4NTZjZ9IBX0FVX3lxTE9xWktTX2dCeHp4VVNZQ0syS2QydW15WkJ3alpiOHhGZVlTblYxRHZ3a1hLQTlXZTZZczVIb1hVOFVNSEF0WkM5V21DNWNxTTF1WTZManpTenFHeE9kYzdj?oc=5",
       "published_at": "2026-09-30T17:53:16Z",
-      "collected_at": "2026-10-01T04:52:39Z",
+      "collected_at": "2026-10-01T16:02:01Z",
       "source_name": "經濟日報",
       "source_domain": "news.google.com",
       "summary": "OpenAI 代理出擊 預期引爆更多伺服器需求 台鏈補 經濟日報",
@@ -150,7 +553,7 @@
       "title": "日韓MLCC廠轉攻AI應用！中國廠商趁勢搶進國際品牌驗證 - 財訊",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkZ3I1YnNYeFVMVUZyd3V1VDlybFl4Snp4M1FEMS1OcTlmQnFFMkE3ZXh0LU1laTRBcGpxNWIzNlhMeFRyMjBhc3kxMUJzQlh1WWJHNXRWSFNUY2lxZmtnSm5FVEVvR3k0UlFlZWFPYUNrd2NGbjluaENVWQ?oc=5",
       "published_at": "2026-09-30T09:08:58Z",
-      "collected_at": "2026-10-01T04:52:39Z",
+      "collected_at": "2026-10-01T16:02:01Z",
       "source_name": "財訊",
       "source_domain": "news.google.com",
       "summary": "日韓MLCC廠轉攻AI應用！中國廠商趁勢搶進國際品牌驗證 財訊",
@@ -173,6 +576,28 @@
       "source_name": "優分析UAnalyze",
       "source_domain": "news.google.com",
       "summary": "AI伺服器材料升級再往上游 Low Dk2玻纖布成供應鏈新焦點 優分析UAnalyze",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem",
+        "High-Speed PCB Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "460653b2db1a658fab7e",
+      "status": "pending",
+      "title": "AI伺服器材料升級再往上游 Low Dk2玻纖布成供應鏈新焦點 - uanalyze.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEeWJMUzJra0xwT3hPZlgwVkcyblFJckkxU2NZS19jcXhhQTNiSGxUdmNGWWp5UzVaX0pUc0NjTTVlSURuSkFrZjJRUFlCMzdTMEkxVDFR?oc=5",
+      "published_at": "2026-09-30T06:05:55Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "uanalyze.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器材料升級再往上游 Low Dk2玻纖布成供應鏈新焦點 uanalyze.com.tw",
       "companies": [],
       "subindustries": [
         "Compute Platform Subsystem",
@@ -245,6 +670,29 @@
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
     },
     {
+      "id": "555645e28274d6180700",
+      "status": "pending",
+      "title": "AI 伺服器供應鏈獲利創高，鴻海發放 117.5 億分紅平均增逾雙位數-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcWdvZDU5dVhydkNkc0ZDY21lNVZqOGZ6dWR2NjRTNFVMdkdmaDhsRDlfMU10WE9GU0lNWmdibGhjS0VqZXMySW9Fd1JYZTRHNGVxZ0JqTVpIc1oyd1h6elB4RHZWWVM3cWZBcVFPbEFEY1pnS2d5aU9VLWQzVm9EalJR?oc=5",
+      "published_at": "2026-09-30T01:15:09Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI 伺服器供應鏈獲利創高，鴻海發放 117.5 億分紅平均增逾雙位數-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "鴻海"
+      ],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
       "id": "b8cb36e196aab0aaee10",
       "status": "pending",
       "title": "睡醒入帳百萬！鴻海分紅今日入帳「這類人」拿最多 AI伺服器是發財關鍵 - FTNN",
@@ -263,6 +711,27 @@
       "system": "Compute System",
       "event_type": "其他重要事件",
       "importance": "Medium",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "c88453a67c8475f5d44d",
+      "status": "pending",
+      "title": "半導體擴建與AI伺服器缺貨潮發酵！ABF交期達56週，供應鏈迎逾百億商機-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNktuYnhwZnRSS3pZWTBHV0ZRZEY2Wm9xbHNmMEgzNHFXYThBMGxDYW9SVm9JY3cyVDZweDkyby05MWhDWDNOdXk3LU10NEdJSEtZOFkwSkExMzlzR2ZRRWZUUldDZDZBV0pLcTRZMkxrYnhLSGpLQTF0OGJwWVpVVnZR?oc=5",
+      "published_at": "2026-09-30T00:44:57Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "半導體擴建與AI伺服器缺貨潮發酵！ABF交期達56週，供應鏈迎逾百億商機-財經焦點情報站 cmnews.com.tw",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
       "evidence_grade": "C",
       "banking_implication": "待人工審核後補充。",
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
@@ -310,6 +779,75 @@
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
     },
     {
+      "id": "5776f487d6926a9d8f13",
+      "status": "pending",
+      "title": "AI伺服器基礎建設引爆擴產潮，亞馬遜斥資逾15億投資台廠，電池與PCB供應鏈全面受惠！-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2Q2MDFRY3NPeTN3azE3c1lFUVpIdEVuNnNWX19iOFBxR1FNSDRreEU2RFllcUxFdXpjREQ3VGRkekFVYWo1R2NKakhkaFN2UFA1cFVuTEZucmdPbjUwenFOeXQ2VThibjY0bUJIN0hkNlNjbG53ZEM1QzhWSjRETlRn?oc=5",
+      "published_at": "2026-09-29T18:45:05Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器基礎建設引爆擴產潮，亞馬遜斥資逾15億投資台廠，電池與PCB供應鏈全面受惠！-財經焦點情報站 cmnews.com.tw",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem",
+        "High-Speed PCB Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "CapEx／擴產",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "c34dd0b0aa0bcb641f30",
+      "status": "pending",
+      "title": "AI伺服器PCB供應鏈掀百億擴產潮，亞馬遜斥資15億入股金像電-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbDkwTXJnLU5zaGVHM1N5Z2xkQVR6RFdXanhFQzN3dzJralFISFhSbDc0VVQtRjg5S3NLYU9SWGxGWkg4azJ0d1VDZ2xBRmlyQmdnLXdUTnZkVjM1d0c5WE1wTW9mZllJX1hFci1MaERjZ2JQWHVmRmROOUZlTU9mNXpn?oc=5",
+      "published_at": "2026-09-29T14:45:29Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器PCB供應鏈掀百億擴產潮，亞馬遜斥資15億入股金像電-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "金像電"
+      ],
+      "subindustries": [
+        "Compute Platform Subsystem",
+        "High-Speed PCB Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "CapEx／擴產",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "9255b6418107fa0f3e05",
+      "status": "pending",
+      "title": "AI伺服器需求爆發！三大科學園區上半年營收達3.5兆，帶旺台積電供應鏈-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSVFzdFFGak1sMGpMOVBFb19QOXMtRWFOSlVMOXU1Uzl4Q252bFRFdGpaYVlZaHFZSzVobFpQWHBjeFFfMVJKSGsyVTR5QnZpdEEzWHRjWko3c2pJQ0c1REVaZDJQTWFqbVBKNFo1ZnBWS3RlZWZGRU00dmdtQUMyZFp3?oc=5",
+      "published_at": "2026-09-29T14:44:54Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器需求爆發！三大科學園區上半年營收達3.5兆，帶旺台積電供應鏈-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "台積電"
+      ],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
       "id": "333bae32300911d80df2",
       "status": "pending",
       "title": "AI PCB資本合作升級！Amazon砸15.9億元入股金像電，79億元新廠CapEx同步啟動 - news.cnyes.com",
@@ -342,6 +880,29 @@
       "source_name": "優分析UAnalyze",
       "source_domain": "news.google.com",
       "summary": "AI PCB資本合作升級！Amazon砸15.9億元入股金像電，79億元新廠CapEx同步啟動 優分析UAnalyze",
+      "companies": [
+        "金像電"
+      ],
+      "subindustries": [
+        "High-Speed PCB Subsystem"
+      ],
+      "system": "Scale-up Switch System",
+      "event_type": "CapEx／擴產",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "ca8c177d771910f46b88",
+      "status": "pending",
+      "title": "AI PCB資本合作升級！Amazon砸15.9億元入股金像電，79億元新廠CapEx同步啟動 - uanalyze.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01MERQenVJQnJ0M3FSS2t1b3pORE54UElGcUxLTzViU3Z3TUIzbGNMNzhDZndzeVlRLVJUVXljRWRPMDU5N2VPbU9RcG5sMXRPR3Y0QktB?oc=5",
+      "published_at": "2026-09-29T12:58:03Z",
+      "collected_at": "2026-10-01T16:02:02Z",
+      "source_name": "uanalyze.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI PCB資本合作升級！Amazon砸15.9億元入股金像電，79億元新廠CapEx同步啟動 uanalyze.com.tw",
       "companies": [
         "金像電"
       ],
@@ -394,6 +955,29 @@
       "system": "跨系統／待分類",
       "event_type": "財務／法說",
       "importance": "Medium",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "343a7a7f88d66dbda16f",
+      "status": "pending",
+      "title": "雲端大廠鞏固AI伺服器供應鏈！砸近16億元入股金像電，同步啟動79億擴產-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTExGVG12YjR6eXlOemlMRUlpRFR2Z1ZVdTdwWUI1Ykk4Q2cxVGJMMlRtal9QaDZzZjZma3loRUlCN0xWSWdhRDFReVE1UUR5aUljRGliWXBseEdGLWpKX05OOXVfWklVMm5GcEtkVjUyMHRXdmZjUHBHTDZ0M2JmbV93?oc=5",
+      "published_at": "2026-09-29T11:15:00Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "雲端大廠鞏固AI伺服器供應鏈！砸近16億元入股金像電，同步啟動79億擴產-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "金像電"
+      ],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "CapEx／擴產",
+      "importance": "High",
       "evidence_grade": "C",
       "banking_implication": "待人工審核後補充。",
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
@@ -463,7 +1047,7 @@
       "title": "歐洲欲發展AI受制海外供應鏈 晶片、伺服器高度仰賴他國 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemU0VElMYlRMX3BQckkyejlzeG10Y3ZnNWpSM2ZOZ0ZXRlJPeHpIblY2QkRZUWRrdzdyQnNhY2NuQ2FUYkJMYnc4YUVwMjRsRjRiTFBvQ0VUOF84RW82SmxIQTlieC1DTkVHRzNhX3lqTUVUR0ZJOFpXMEpsaUlCLTRra2FPaEVzeTFRQg?oc=5",
       "published_at": "2026-09-29T10:40:14Z",
-      "collected_at": "2026-10-01T04:52:39Z",
+      "collected_at": "2026-10-01T16:02:01Z",
       "source_name": "PChome Online 新聞",
       "source_domain": "news.google.com",
       "summary": "歐洲欲發展AI受制海外供應鏈 晶片、伺服器高度仰賴他國 PChome Online 新聞",
@@ -515,12 +1099,31 @@
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
     },
     {
+      "id": "1961bf037739e16a6a3f",
+      "status": "pending",
+      "title": "東元攜安達康參與新加坡Data Center World亮相MDC整合方案 攻東南亞AI基建商機 - uanalyze.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JTEhrdWxIU2phSmwwYl9MOTNpY1lkYkY0eTkwd1pSVG5seTRKd0xjVGF3c0NONjB0cXJuYWp4eGwwQi1NUkR3RllRLXV3OGZjREg0MGlB?oc=5",
+      "published_at": "2026-09-29T09:06:27Z",
+      "collected_at": "2026-10-01T16:02:02Z",
+      "source_name": "uanalyze.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "東元攜安達康參與新加坡Data Center World亮相MDC整合方案 攻東南亞AI基建商機 uanalyze.com.tw",
+      "companies": [],
+      "subindustries": [],
+      "system": "跨系統／待分類",
+      "event_type": "其他重要事件",
+      "importance": "Medium",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
       "id": "244f9f943ee8c5ce6213",
       "status": "pending",
       "title": "Meta Muse 再掀 AI 代理熱潮 法人喊買這幾檔伺服器供應鏈 - 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WR2RpVl9tX3JEdFQ1SzdpQTBBb1ZlN3RWRVBCLXpSRGFZZmdyLXJsQktQTmRoVC00dDhPTTRPc2VCd1BESjhOOWhIY2RTRU5SSDZ1RHpuaDVqUdIBX0FVX3lxTE5xUW9LMkVfVVlHemVzRlRFMGJLS3NDckpZYkxRcVY2b0JKR0xaOU5Vb3NFS2lYZ01BYms3TVpDLWVFN2I2aEhzTXE4ZFNrdlZTbUJWa1B0RUxORVVKUkhN?oc=5",
       "published_at": "2026-09-29T09:00:00Z",
-      "collected_at": "2026-10-01T04:52:39Z",
+      "collected_at": "2026-10-01T16:02:01Z",
       "source_name": "經濟日報",
       "source_domain": "news.google.com",
       "summary": "Meta Muse 再掀 AI 代理熱潮 法人喊買這幾檔伺服器供應鏈 經濟日報",
@@ -619,7 +1222,7 @@
       "title": "NVIDIA開始定義AI Factory怎麼蓋！DSX供應鏈浮現，台達電(2308)從中壓一路做到800V與液冷 - uanalyze.com.tw",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwY1RXZ1RVcTNONTFWRTlPZ211c18xcGpPN2lwWkRxOHlOckFCNlZGOWo0eDJXQ2UzMnBiVDFNUk9QMENnTl9UOTcwLXd6c2Vjd2ZlczhR?oc=5",
       "published_at": "2026-09-29T06:35:22Z",
-      "collected_at": "2026-09-29T15:24:29Z",
+      "collected_at": "2026-10-01T16:02:01Z",
       "source_name": "uanalyze.com.tw",
       "source_domain": "news.google.com",
       "summary": "NVIDIA開始定義AI Factory怎麼蓋！DSX供應鏈浮現，台達電(2308)從中壓一路做到800V與液冷 uanalyze.com.tw",
@@ -720,7 +1323,7 @@
       "title": "AI資料中心不再比GPU，而是比誰「生Token」更便宜！台灣供應鏈迎來哪些新商機？ - 數位時代",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdEFoLVV3cXAwSjVJcjFBYnZjR1lhY1pjNGMxNEhZTm1RMVU0WVlOcEZPOEJlRXB0QksxZkRRSFI5d0licHRjdUtlV2VDMFJsS04ycy1VTFNNcDBSVGxJa05MRUx3SUVUeWExckNXYk5tWG94b3B0VVQ3Rld1SG0xNmdEME1oSGJGcktsaHJoRFg?oc=5",
       "published_at": "2026-09-29T01:34:00Z",
-      "collected_at": "2026-10-01T04:52:39Z",
+      "collected_at": "2026-10-01T16:02:02Z",
       "source_name": "數位時代",
       "source_domain": "news.google.com",
       "summary": "AI資料中心不再比GPU，而是比誰「生Token」更便宜！台灣供應鏈迎來哪些新商機？ 數位時代",
@@ -781,7 +1384,7 @@
       "title": "AMD to Acquire World Labs to Advance the Future of AI Compute",
       "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute",
       "published_at": "2026-09-28T20:05:00Z",
-      "collected_at": "2026-10-01T04:52:38Z",
+      "collected_at": "2026-10-01T16:02:00Z",
       "source_name": "AMD Official｜Press Releases",
       "source_domain": "ir.amd.com",
       "summary": "",
@@ -826,6 +1429,27 @@
       "companies": [],
       "subindustries": [],
       "system": "跨系統／待分類",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "bd5d51165b6e02035c14",
+      "status": "pending",
+      "title": "半導體供應鏈區域化加速，AI伺服器帶旺碳化矽需求！這3檔概念股迎商機-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVU5hR3o5YUxtOG1pTHNpazRoa1ZqeU5ZaXBUcDItNUNwVDVOX052YklkbjRUTENnR1RlNlZBODJ3NUhDc2RvaTlrRTI4NGZaR2Vpa2xsV25HSW5jelZHWC1hOGN0dHAyWHJzdUl6WnR5b2tERk41M2xtd3JqQXd6bGZn?oc=5",
+      "published_at": "2026-09-28T16:45:08Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "半導體供應鏈區域化加速，AI伺服器帶旺碳化矽需求！這3檔概念股迎商機-財經焦點情報站 cmnews.com.tw",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
       "event_type": "訂單／合作／認證",
       "importance": "High",
       "evidence_grade": "C",
@@ -897,7 +1521,7 @@
       "title": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase",
       "url": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase",
       "published_at": "2026-09-28T11:00:00Z",
-      "collected_at": "2026-10-01T04:52:38Z",
+      "collected_at": "2026-10-01T16:01:59Z",
       "source_name": "NVIDIA Official｜Press Releases",
       "source_domain": "nvidianews.nvidia.com",
       "summary": "NVIDIA today announced that its Board of Directors has authorized an additional $150 billion under the company’s existing share repurchase program, increasing the total remaining amount authorized to $235 billion.",
@@ -930,12 +1554,35 @@
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
     },
     {
+      "id": "196d9865251573b80d69",
+      "status": "pending",
+      "title": "AI伺服器供應鏈全面升級，明年機櫃出貨估達11萬櫃，鴻海迎高單價訂單！-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWGFNdElraGgtVVJKbEtDTTJONGhaVkJuRTJlNnpiSGtEcmNjVDdUSElSY19RZnNOZmx4U0l6al9pMjM3X3BVcFk2SXFBNExicm4ySzBOSTV3bGJ0Rk1LcHY0VDZtNGhBVU1tenpqQ09yN2xiNEZYVGdzeFFTQUdCbi1R?oc=5",
+      "published_at": "2026-09-28T09:45:06Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器供應鏈全面升級，明年機櫃出貨估達11萬櫃，鴻海迎高單價訂單！-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "鴻海"
+      ],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
       "id": "781f067d6f1dfbd26218",
       "status": "pending",
       "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
       "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
       "published_at": "2026-09-28T09:00:00Z",
-      "collected_at": "2026-10-01T04:52:38Z",
+      "collected_at": "2026-10-01T16:01:59Z",
       "source_name": "NVIDIA Official｜Press Releases",
       "source_domain": "nvidianews.nvidia.com",
       "summary": "NVIDIA today announced NVIDIA Open Agent Safety Platform, an open software platform and reference system design to strengthen AI security from agent testing to deployment, with full-stack governance and control across software and the hardware, compute and robotics systems that run agents.",
@@ -1048,13 +1695,34 @@
     {
       "id": "c1681ad778750cfbc0ae",
       "status": "pending",
-      "title": "AI伺服器與半導體供應鏈營運展望佳的原因為何？ - udn",
+      "title": "AI伺服器與半導體供應鏈營運展望佳的原因為何？ - UDN",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNlBUeWljdTBTSHltQXdBWGdLaDJ6NFIzYjFSdVJ1c3FWZFk0dVpyeS1KTXlaQ0NETE9waFJZZVBMc3UteFpHTDY1TS0taldob0lXU0ZJeEljUVB5dnVsa1FaQTVLT2lWd2xDaXJsZGxWUnVBWXNtY3ZxLTN4akl0ZEZudUY?oc=5",
       "published_at": "2026-09-27T22:19:46Z",
-      "collected_at": "2026-09-30T15:41:03Z",
-      "source_name": "udn",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "UDN",
       "source_domain": "news.google.com",
-      "summary": "AI伺服器與半導體供應鏈營運展望佳的原因為何？ udn",
+      "summary": "AI伺服器與半導體供應鏈營運展望佳的原因為何？ UDN",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "88a56d52fd5b41597fd2",
+      "status": "pending",
+      "title": "AI伺服器供應鏈迎5GW算力大單！Meta整合AI代理技術，帶動台廠新契機-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeE1TRVdkWS1UbF9GUDMwVEJ3T21LUVJSLXFnVmRFNnZISFBWR1U5aXExOFplcGxvemRZTzIwMmoyaHNROWI0VnlMMnBkNGptUkJEa0NENXdIMVExZ2d5Mll4V251Unk0UklyVVRLQllzcTZLZjRtMzVBRzFCNWtzQURB?oc=5",
+      "published_at": "2026-09-27T19:14:48Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器供應鏈迎5GW算力大單！Meta整合AI代理技術，帶動台廠新契機-財經焦點情報站 cmnews.com.tw",
       "companies": [],
       "subindustries": [
         "Compute Platform Subsystem"
@@ -1109,6 +1777,27 @@
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
     },
     {
+      "id": "0c4e3a88c4acf4aaf4a4",
+      "status": "pending",
+      "title": "AI伺服器供應鏈最新擴產潮，連假前法人籌碼兩極，仁寶遭賣逾4.5萬張-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQazhrUUd6YUtoZ1dET0FncUVnbWU3SmRzQXRrYzVQbmVjWDBOVHp1WFFzRTZORUY3VVBRWXAxMjRDN1NIaFJaampNNGdEX2tVcVEweGFGcHRFR0NyVjQ5cHEweXpCTkhXQlZ4ODdUNFA0RmNNR18xbmdsMF9fSlZMczZn?oc=5",
+      "published_at": "2026-09-27T16:15:08Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器供應鏈最新擴產潮，連假前法人籌碼兩極，仁寶遭賣逾4.5萬張-財經焦點情報站 cmnews.com.tw",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "CapEx／擴產",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
       "id": "bf126fe5825531a26549",
       "status": "pending",
       "title": "美國AI供應鏈管制再擴大 光收發模組納入國會限制範圍 - news.cnyes.com",
@@ -1152,7 +1841,7 @@
       "title": "美國AI供應鏈管制再擴大 光收發模組納入國會限制範圍 - uanalyze.com.tw",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jYnQwSVJLMmdad1VTbFdNVTV1XzU0Y3dYQjVHOUIwc2FseUZDV1VlYjFLdnJVVDNKa3QzUEh5anBIMGJfQ0xmUHNnWF9UQkw3b0VYTS13?oc=5",
       "published_at": "2026-09-27T14:30:32Z",
-      "collected_at": "2026-09-29T15:24:29Z",
+      "collected_at": "2026-10-01T16:02:01Z",
       "source_name": "uanalyze.com.tw",
       "source_domain": "news.google.com",
       "summary": "美國AI供應鏈管制再擴大 光收發模組納入國會限制範圍 uanalyze.com.tw",
@@ -1178,6 +1867,28 @@
       "companies": [],
       "subindustries": [],
       "system": "跨系統／待分類",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "247b7600b4ca18aa0281",
+      "status": "pending",
+      "title": "AI伺服器供應鏈發威！PCB產值估破兆元，散熱與半導體先進製程同受惠-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXBPeUJseGJtRXB1aS1NdWxxYkFyLVBzTVhnR2FRRlIxSGJOdXpMQWVrcXJWbFV3UXBock15Q0lkMzlZazNDMGIzS1UwR2ZjMUxkc1FTYUZDTXZVUU9OVUo0alR5WDV6RzVaRGl1RjRMMHZLOWZzSXlFRzdUVlBPTUF3?oc=5",
+      "published_at": "2026-09-27T05:44:59Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器供應鏈發威！PCB產值估破兆元，散熱與半導體先進製程同受惠-財經焦點情報站 cmnews.com.tw",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem",
+        "High-Speed PCB Subsystem"
+      ],
+      "system": "Compute System",
       "event_type": "訂單／合作／認證",
       "importance": "High",
       "evidence_grade": "C",
@@ -1223,6 +1934,29 @@
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
     },
     {
+      "id": "5605175a79d5acf7d32b",
+      "status": "pending",
+      "title": "AI伺服器供應鏈啟動1700億大籌資，液冷與矽光子長單帶動鴻海等廠擴產-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUXZWRWY1WGwxYi10a3g4WDNuSWZaNlZKem11dHk1T0RsQi1TQlpkc3VKTlgtN1JpTWh4eFRaaXBtcXRBOENCbklpX1Y5c1o1b0ZWZmZtSDd4d082Qmo1OU11bWNCUlNTTG9LbWxtVm13YkxSS0tvVFBvSzR1ZVhZRFNR?oc=5",
+      "published_at": "2026-09-27T01:45:43Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器供應鏈啟動1700億大籌資，液冷與矽光子長單帶動鴻海等廠擴產-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "鴻海"
+      ],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "CapEx／擴產",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
       "id": "614844ac5413269c7006",
       "status": "pending",
       "title": "AI伺服器擴產仍不夠！滿手訂單接不完鴻海、廣達、緯創籌逾1,700億元銀彈拚產能- 日報 - 工商時報",
@@ -1242,6 +1976,27 @@
       ],
       "system": "Compute System",
       "event_type": "CapEx／擴產",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "5a21a37f56bb84df404e",
+      "status": "pending",
+      "title": "AI 伺服器供應鏈迎千億美元商機！最新台股市值破 5.3 兆美元躍升全球第四大-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTnlTRjY1UHBTajdfX3BkZTk1Q3JtV2tycm5qYWdBWndYOHl6OE0zZ0FZSDR5UjR6QXBXV1A3OEk0X3NaY0JBblB4LW9fb1JlRFJNdUxLNHFIaTlrWEoxUXRzS0h6YVVYZEZ2MnVBSkl3Zmw4a3JEMmtaaHF5ZnAzQUlB?oc=5",
+      "published_at": "2026-09-26T16:44:52Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI 伺服器供應鏈迎千億美元商機！最新台股市值破 5.3 兆美元躍升全球第四大-財經焦點情報站 cmnews.com.tw",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
       "importance": "High",
       "evidence_grade": "C",
       "banking_implication": "待人工審核後補充。",
@@ -1368,6 +2123,29 @@
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
     },
     {
+      "id": "1b8851d1a26e3f9e7c86",
+      "status": "pending",
+      "title": "AI伺服器供應鏈迎升級潮！代理式AI推升投資額達2.59兆，廣達迎商機-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUmRxbFJqRmxOU2xobnBxdGx1SGdraElYcE05eDg3QUJIWW01VzB5SXBFbzhVNFNDNVA2NEhKNHpyR0dTbnRPOEw4aTlxcnNNMEJ3cjJyLU5iY0plTUlKN1FldGQ1VHozakRiYmZSc1FYTENVak10QnlZQ05xR250YXl3?oc=5",
+      "published_at": "2026-09-26T06:44:49Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器供應鏈迎升級潮！代理式AI推升投資額達2.59兆，廣達迎商機-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "廣達"
+      ],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
       "id": "aa99eea8c891294999ac",
       "status": "pending",
       "title": "Meta Muse爆紅掀AI代理熱！法人點名6檔伺服器供應鏈 CPU需求同步升溫 - Yahoo股市",
@@ -1420,6 +2198,48 @@
       "system": "跨系統／待分類",
       "event_type": "其他重要事件",
       "importance": "Medium",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "4d039b1f7278ce712fc4",
+      "status": "pending",
+      "title": "AI伺服器供應鏈拉貨強勁！Google最新資本支出翻倍破1950億美元，台廠5檔受惠-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMjI4cDFHM3hnbFFITUFiQjV5REtIU0xjenNaSzJ5V1VIem9sSkRHNzhmS1I2aDRZdjdnRDFxYl9mYVdLM1kySVkwY2tPbnFsdTVOa3FFX3JrSFFIUkg3U0tLVk9PeDNjLURzbnZEYzdSSFFrMkRQTzJKYVF6X1NLWnln?oc=5",
+      "published_at": "2026-09-25T20:45:12Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器供應鏈拉貨強勁！Google最新資本支出翻倍破1950億美元，台廠5檔受惠-財經焦點情報站 cmnews.com.tw",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "8c8ffc99c1e246aef141",
+      "status": "pending",
+      "title": "AI伺服器供應鏈迎CSP大單！輝達推玻璃基板技術，散熱與載板族群連番創高-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQelpJSG5EVUlhZ2RaMkZ3VVctSGdEaTlfNkFuaXFtUmZLdUl6X2RTVkswRVlTVEVCZlVDME4wSzRSeTFrbU5BVTQ3aE14Vkc4STZuSEViampfUldWQjRSd2hvcGJJZkhBaWg3blZTM3BwcG04MnZXM2hRdUxBLVNGaUpR?oc=5",
+      "published_at": "2026-09-25T12:44:51Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器供應鏈迎CSP大單！輝達推玻璃基板技術，散熱與載板族群連番創高-財經焦點情報站 cmnews.com.tw",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
       "evidence_grade": "C",
       "banking_implication": "待人工審核後補充。",
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
@@ -1501,6 +2321,28 @@
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
     },
     {
+      "id": "7b0419d32f285ac17043",
+      "status": "pending",
+      "title": "中秋連假資金觀望，AI伺服器PCB供應鏈抗跌與七都預售屋量縮效應-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWdYQVN1U1JydTI2dkwwbUl3bVp5cWxRQ2NjNWJzZTBzMlRFX3JuNzBlRlB4ek5aNlNKYVItMW1uWFBrckNlZzhvZkFVdzVqSjdwU2V0Wlhxc3N2dWdtOUxpd2RRWXpieDlWRjZ6MzlSUUpfdHFYT2ZzZFUtWlhHb0Z3?oc=5",
+      "published_at": "2026-09-25T06:14:49Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "中秋連假資金觀望，AI伺服器PCB供應鏈抗跌與七都預售屋量縮效應-財經焦點情報站 cmnews.com.tw",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem",
+        "High-Speed PCB Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
       "id": "0ad40fddad1ba6527a5e",
       "status": "pending",
       "title": "Meta Muse 再掀 AI 代理熱潮 法人喊買這幾檔伺服器供應鏈 - udn",
@@ -1553,6 +2395,27 @@
         "High-Speed PCB Subsystem"
       ],
       "system": "Scale-up Switch System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "be62718c643f8cfbb49f",
+      "status": "pending",
+      "title": "AI伺服器與車用供應鏈發威！單周狂飆近三成，這3檔創波段新高-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORE5uVGJxdUpic2hIaGM0ZjBhVHdPXy1ldlZQOFZxQkdUVnZjU0VoVHI0VTJ0YUdqWktVc0RxNmRFejdxSWRmUnJUOU5sWHI1MjR2OEE0Y0NyRGYyT25TX1dZQnNIOWpZNzVENmNyeUliSEVzdkQwVkRUeEdJMXh6Q2Vn?oc=5",
+      "published_at": "2026-09-25T02:14:56Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器與車用供應鏈發威！單周狂飆近三成，這3檔創波段新高-財經焦點情報站 cmnews.com.tw",
+      "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
       "event_type": "訂單／合作／認證",
       "importance": "High",
       "evidence_grade": "C",
@@ -2152,7 +3015,7 @@
       "title": "Muse爆紅點燃CPU重估潮 AMD市值突破兆美元 台灣AI供應鏈迎來第二波擴散 - 理財周刊",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wLTl2V2JKVjE1d2s2QnJPQUljNXFwTmI5ZnhOV2w4MDNxWnRoeUdRUXRmamNIVXV6M3BXTHZuMi1NZlVaYXpRbDRpTzFDQjZRS2NsS2llTjd2T1RGVVkzQUgwemNPWDlBbTREMFdwOA?oc=5",
       "published_at": "2026-09-23T04:25:29Z",
-      "collected_at": "2026-10-01T04:52:38Z",
+      "collected_at": "2026-10-01T16:02:00Z",
       "source_name": "理財周刊",
       "source_domain": "news.google.com",
       "summary": "Muse爆紅點燃CPU重估潮 AMD市值突破兆美元 台灣AI供應鏈迎來第二波擴散 理財周刊",
@@ -2209,7 +3072,7 @@
       "title": "Best AI Stocks to Buy Now: 10 Top Performers for 2026 - Markets.com",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZN2RKUDBRMGJNSzZ3STZ4cXNBbnRjbVY5THpDZnNEZF9COEJENmZfTFY0WVpNR1pJVHNWOVpQb0p0YV9UclRENTVOUF9GeWJqcUFjWFloZXF1MmMzYW5oUHZFMkNubHpucVdUUEpBeklMbVNv?oc=5",
       "published_at": "2026-09-22T16:05:00Z",
-      "collected_at": "2026-10-01T04:52:39Z",
+      "collected_at": "2026-10-01T16:02:01Z",
       "source_name": "Markets.com",
       "source_domain": "news.google.com",
       "summary": "Best AI Stocks to Buy Now: 10 Top Performers for 2026 Markets.com",
@@ -2348,8 +3211,8 @@
       "status": "pending",
       "title": "AMD Hits $1 Trillion Valuation on AI - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYW1lRGZ0ZWhCVjNYajd6MmljOTI5bk52X3c0dVBvTFc0MU1McDQ0LUdYZk94Yk9IM0VhV0tjc3E1cEZTX1dUekw5VDAyYnlRNmVzeXRtS1E3NHJTVzhhdTVxQzVVdHF1aURzekxjWXRxNXRHanFrWFNobmZ2STFtYlUyWUVDeGhC?oc=5",
-      "published_at": "2026-09-22T08:01:50Z",
-      "collected_at": "2026-09-30T15:41:03Z",
+      "published_at": "2026-09-22T07:00:00Z",
+      "collected_at": "2026-10-01T16:02:01Z",
       "source_name": "조선일보",
       "source_domain": "news.google.com",
       "summary": "AMD Hits $1 Trillion Valuation on AI 조선일보",
@@ -2650,7 +3513,7 @@
       "title": "AMD Joins the $1 Trillion Club: What Its AI Chip Surge Says About the Next Semiconductor Race - Spherical Insights",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeEE5d1JzVVo5cmpvZ1ppV2ZRMmd1VTZZYzlLUUZsWEZNd2t5dFoxTm01UDM1ZnNFNjdVTjlkc0JrdEVpR2pkOGV2V2lsQ0RfMHRIMEpxOEtiR0NfMi1kOEllaWZab0NnZTh1dUlpeXA5OTF6NnhOcmR2ZmhPVU9udTZOR3h6ZVFsUGNhdG9ZdUw0MVlDOGFBbHFEb0lsMEhFbTdPWHFldmQ3azRMUVZJSmV6M0o1aVZ6WlBfa1ROeGQ0dXVGZkltbmIxMA?oc=5",
       "published_at": "2026-09-21T07:00:00Z",
-      "collected_at": "2026-10-01T04:52:39Z",
+      "collected_at": "2026-10-01T16:02:01Z",
       "source_name": "Spherical Insights",
       "source_domain": "news.google.com",
       "summary": "AMD Joins the $1 Trillion Club: What Its AI Chip Surge Says About the Next Semiconductor Race Spherical Insights",
@@ -2678,6 +3541,30 @@
       "system": "跨系統／待分類",
       "event_type": "其他重要事件",
       "importance": "Medium",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "83eb28122083029fab89",
+      "status": "pending",
+      "title": "AI伺服器供應鏈迎量產潮！ASIC與液冷散熱雙引擎發威，聯發科等台廠受惠-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN0Fib3VNRlVHWHNKeDBMTVJYQkZpbVBMTkpvWlNPUkhVeTRMRHdEVXZzTk5MUVhzRlNNZll3LW5zTlRzRHNRUzBnb2prRVpyV1pxTnZpS3pDTjBCemhmaUlCVW42eGhGRmN2MV9aYWJsQlVDX2lmUVcyUV9OU1E0YTNn?oc=5",
+      "published_at": "2026-09-21T07:00:00Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器供應鏈迎量產潮！ASIC與液冷散熱雙引擎發威，聯發科等台廠受惠-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "聯發科"
+      ],
+      "subindustries": [
+        "Compute Silicon Subsystem",
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
       "evidence_grade": "C",
       "banking_implication": "待人工審核後補充。",
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
@@ -3246,29 +4133,6 @@
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
     },
     {
-      "id": "c4dfb0f2488942087992",
-      "status": "pending",
-      "title": "AI伺服器供應鏈無懼放緩雜音！最新訂單現況曝光，緯創等大廠揭後市變數-財經焦點情報站 - cmnews.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEJjN1AyeVlNdWJDRm1DU3JUS1dNYmlPWXNfT3Q0Z1Mxa1lKbm1sMHZOZmlIc3p0ZnNuQlZXbUJReldlMFZNVmpnR3c1ZzZaazEwRU1mM3ZTaWRJcHFEZU9nZEotcUNIcnJkYjdRdmZ2Q1paUlRpQTFHa09hcmVhWFpB?oc=5",
-      "published_at": "2026-09-18T11:52:46Z",
-      "collected_at": "2026-09-20T04:02:13Z",
-      "source_name": "cmnews.com.tw",
-      "source_domain": "news.google.com",
-      "summary": "AI伺服器供應鏈無懼放緩雜音！最新訂單現況曝光，緯創等大廠揭後市變數-財經焦點情報站 cmnews.com.tw",
-      "companies": [
-        "緯創"
-      ],
-      "subindustries": [
-        "Compute Platform Subsystem"
-      ],
-      "system": "Compute System",
-      "event_type": "訂單／合作／認證",
-      "importance": "High",
-      "evidence_grade": "C",
-      "banking_implication": "待人工審核後補充。",
-      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
-    },
-    {
       "id": "137ec7e46a095f473651",
       "status": "pending",
       "title": "AI伺服器不再只看GPU ASIC重塑ODM供應鏈 - CTIMES",
@@ -3348,25 +4212,6 @@
         "Compute Platform Subsystem"
       ],
       "system": "Compute System",
-      "event_type": "訂單／合作／認證",
-      "importance": "High",
-      "evidence_grade": "C",
-      "banking_implication": "待人工審核後補充。",
-      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
-    },
-    {
-      "id": "583ec48d2a12f7a5a976",
-      "status": "pending",
-      "title": "AI資料中心用電估增31%，台灣電力供應鏈誰先吃到訂單？-跟著大資走 澤明 - cmnews.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVTA3MXQxTVpYLXN6czF0cDdCaXEtcnV6UjQ0N2tpY0N5T0wwRmRiNmlvTXJjSmZBU3RVeTRERUFhOHFXbHlWamg1MnVPZThXdm90eDNSbWhUODlPQUxyNjBKa2QyRUtZdTBPVm1nZ3ZVbHNuclhIeDhBb3BTd2pjX1IyTQ?oc=5",
-      "published_at": "2026-09-18T09:47:19Z",
-      "collected_at": "2026-09-20T04:02:14Z",
-      "source_name": "cmnews.com.tw",
-      "source_domain": "news.google.com",
-      "summary": "AI資料中心用電估增31%，台灣電力供應鏈誰先吃到訂單？-跟著大資走 澤明 cmnews.com.tw",
-      "companies": [],
-      "subindustries": [],
-      "system": "跨系統／待分類",
       "event_type": "訂單／合作／認證",
       "importance": "High",
       "evidence_grade": "C",
@@ -3481,6 +4326,48 @@
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
     },
     {
+      "id": "c4dfb0f2488942087992",
+      "status": "pending",
+      "title": "AI伺服器供應鏈無懼放緩雜音！最新訂單現況曝光，緯創等大廠揭後市變數-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEJjN1AyeVlNdWJDRm1DU3JUS1dNYmlPWXNfT3Q0Z1Mxa1lKbm1sMHZOZmlIc3p0ZnNuQlZXbUJReldlMFZNVmpnR3c1ZzZaazEwRU1mM3ZTaWRJcHFEZU9nZEotcUNIcnJkYjdRdmZ2Q1paUlRpQTFHa09hcmVhWFpB?oc=5",
+      "published_at": "2026-09-18T07:00:00Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器供應鏈無懼放緩雜音！最新訂單現況曝光，緯創等大廠揭後市變數-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "緯創"
+      ],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "583ec48d2a12f7a5a976",
+      "status": "pending",
+      "title": "AI資料中心用電估增31%，台灣電力供應鏈誰先吃到訂單？-跟著大資走 澤明 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVTA3MXQxTVpYLXN6czF0cDdCaXEtcnV6UjQ0N2tpY0N5T0wwRmRiNmlvTXJjSmZBU3RVeTRERUFhOHFXbHlWamg1MnVPZThXdm90eDNSbWhUODlPQUxyNjBKa2QyRUtZdTBPVm1nZ3ZVbHNuclhIeDhBb3BTd2pjX1IyTQ?oc=5",
+      "published_at": "2026-09-18T07:00:00Z",
+      "collected_at": "2026-10-01T16:02:02Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI資料中心用電估增31%，台灣電力供應鏈誰先吃到訂單？-跟著大資走 澤明 cmnews.com.tw",
+      "companies": [],
+      "subindustries": [],
+      "system": "跨系統／待分類",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
       "id": "7e75be61d83044ad42b2",
       "status": "pending",
       "title": "AI伺服器2026概念股有哪些？從單機到整櫃的供應鏈與催化劑解析 - pocket.tw",
@@ -3509,6 +4396,51 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pZUFKOG9ubFFNWU9pOG1fcmktUDF5dU1sUW80dHZ2ZG05dTFoeTBRU0VjU0EwT2ZlS01UUUtDdWdDWENGNU5HLXA5cUwzRjkycHlJTktuN1dmemF5dTJPTHgzMWktdFQ3VUFUN3E2V2dLOEY2?oc=5",
       "published_at": "2026-09-18T07:00:00Z",
       "collected_at": "2026-09-30T15:41:03Z",
+      "source_name": "CTIMES",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器不再只看GPU ASIC重塑ODM供應鏈 CTIMES",
+      "companies": [],
+      "subindustries": [
+        "Compute Silicon Subsystem",
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "fad6218ae351b0f16477",
+      "status": "pending",
+      "title": "AI伺服器供應鏈迎爆發期！輝達預告銷量翻倍，台積電等3檔台廠受惠-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPenBscFJkc1VQVnJMLVowWU83R0pPWTBFMmRhZllDVEVLZVpLYTJqaG9uczFFMFV5RW10bEZuNTc0YkpzM25KRWYwOTVBVnRtS0lLUV9QaXFhakY3SjdSTUpiS21HLU45ZHllZ3NZeHI4V2FQR2dncW9PNFBYNUtSLW1B?oc=5",
+      "published_at": "2026-09-18T07:00:00Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器供應鏈迎爆發期！輝達預告銷量翻倍，台積電等3檔台廠受惠-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "台積電"
+      ],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "d987f4cabcc16ddaf835",
+      "status": "pending",
+      "title": "AI伺服器不再只看GPU ASIC重塑ODM供應鏈 - CTIMES",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xc1ptelhSZjJGYjRENUg0MmtRWmhULXlwTDlmUXhFSUh6YnM2UTRVeUhTdTlFZU54MmxoVEg5c0g2d1lKdmNOYzZLRkRDWkY3RmJUZ2E5TXVnU3RRNXNKY2c0aEh5UmdxRHJzOA?oc=5",
+      "published_at": "2026-09-18T07:00:00Z",
+      "collected_at": "2026-10-01T16:02:01Z",
       "source_name": "CTIMES",
       "source_domain": "news.google.com",
       "summary": "AI伺服器不再只看GPU ASIC重塑ODM供應鏈 CTIMES",
@@ -3627,29 +4559,6 @@
       "system": "Compute System",
       "event_type": "其他重要事件",
       "importance": "Medium",
-      "evidence_grade": "C",
-      "banking_implication": "待人工審核後補充。",
-      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
-    },
-    {
-      "id": "fad6218ae351b0f16477",
-      "status": "pending",
-      "title": "AI伺服器供應鏈迎爆發期！輝達預告銷量翻倍，台積電等3檔台廠受惠-財經焦點情報站 - cmnews.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPenBscFJkc1VQVnJMLVowWU83R0pPWTBFMmRhZllDVEVLZVpLYTJqaG9uczFFMFV5RW10bEZuNTc0YkpzM25KRWYwOTVBVnRtS0lLUV9QaXFhakY3SjdSTUpiS21HLU45ZHllZ3NZeHI4V2FQR2dncW9PNFBYNUtSLW1B?oc=5",
-      "published_at": "2026-09-18T03:52:07Z",
-      "collected_at": "2026-09-20T04:02:13Z",
-      "source_name": "cmnews.com.tw",
-      "source_domain": "news.google.com",
-      "summary": "AI伺服器供應鏈迎爆發期！輝達預告銷量翻倍，台積電等3檔台廠受惠-財經焦點情報站 cmnews.com.tw",
-      "companies": [
-        "台積電"
-      ],
-      "subindustries": [
-        "Compute Platform Subsystem"
-      ],
-      "system": "Compute System",
-      "event_type": "訂單／合作／認證",
-      "importance": "High",
       "evidence_grade": "C",
       "banking_implication": "待人工審核後補充。",
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
@@ -4109,8 +5018,8 @@
       "status": "pending",
       "title": "AI伺服器供應鏈迎擴產潮！全球支出看增近五成，廣達等台廠受惠-財經焦點情報站 - cmnews.com.tw",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV1c0WXdFZTJXbjVvOUFfekpBSTdLWU95a0RIcnJEdm1CczB1UkgtOFNxeHBadXNiVXdGRFVGeDNnTXVMMTdVd040a0NocDBFTDdraVlmakZNX1J6U1MxUl9NZkdBLXMtM245RHVyMXpiQ2lmNmlWTHlYdGpISFN6YktB?oc=5",
-      "published_at": "2026-09-17T06:52:15Z",
-      "collected_at": "2026-09-20T04:02:13Z",
+      "published_at": "2026-09-17T07:00:00Z",
+      "collected_at": "2026-10-01T16:02:01Z",
       "source_name": "cmnews.com.tw",
       "source_domain": "news.google.com",
       "summary": "AI伺服器供應鏈迎擴產潮！全球支出看增近五成，廣達等台廠受惠-財經焦點情報站 cmnews.com.tw",
@@ -4950,7 +5859,7 @@
       "title": "美國盯上墨西哥AI伺服器供應鏈！緯穎尾盤急殺6.48% 台灣科技廠面臨原產地新考驗 - 理財周刊",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5teWpYRW9yeFNveFROTm5xa2JPa1J5VlFwRFZhSEdCYnlpcnNoRmxDWnljSFBjakxUQ25VTzNQVnd1T09MYVQ1TTQ0RU9pVG50NmVkOVNQeEMxRVVFVGxPWDM0SWN4eGRhaFZySjNjcw?oc=5",
       "published_at": "2026-09-16T07:00:00Z",
-      "collected_at": "2026-10-01T04:52:39Z",
+      "collected_at": "2026-10-01T16:02:01Z",
       "source_name": "理財周刊",
       "source_domain": "news.google.com",
       "summary": "美國盯上墨西哥AI伺服器供應鏈！緯穎尾盤急殺6.48% 台灣科技廠面臨原產地新考驗 理財周刊",
@@ -5128,11 +6037,57 @@
       "title": "台灣五大ODM重構AI伺服器供應鏈北美在地製造進入加速期 - news.cnyes.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiWi1HTk85aVNJNnJVRzRValFZVXczOXdWQmNwa1ZHMnNlTVZJX0lFNklnRGIxWTRkRWFmTXQ3dHEwSFg5Nm1lbmdrVGlMbnM?oc=5",
       "published_at": "2026-09-16T07:00:00Z",
-      "collected_at": "2026-10-01T04:52:39Z",
+      "collected_at": "2026-10-01T16:02:01Z",
       "source_name": "news.cnyes.com",
       "source_domain": "news.google.com",
       "summary": "台灣五大ODM重構AI伺服器供應鏈北美在地製造進入加速期 news.cnyes.com",
       "companies": [],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "a75c73dbd29885f0ebe2",
+      "status": "pending",
+      "title": "夏普攜手鴻海供應鏈，進軍 AI 伺服器市場 - technews.tw",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY3M2cWhteDQ0Ri0wbV93bTdqaThkVDc1eFU5OHFRUC0xeDV5YTNNUkFpM3ZiZlg1ZUtzNE5FMXkzdGdzakdqa3ZkUXdnb2ZzUGM3ZEM1cGxXQ3Z6d29qNXpJS3R0RlVmb1p3N1VGb3ZkZUFkVU9tc2hJZ0lQQU5jME1xaVBGejI5d2Nfem5RVE00TG5QZlF3YktobVcwQQ?oc=5",
+      "published_at": "2026-09-16T07:00:00Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "technews.tw",
+      "source_domain": "news.google.com",
+      "summary": "夏普攜手鴻海供應鏈，進軍 AI 伺服器市場 technews.tw",
+      "companies": [
+        "鴻海"
+      ],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "訂單／合作／認證",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
+      "id": "4e3684bbebc9b0228acd",
+      "status": "pending",
+      "title": "AI伺服器供應鏈需求爆發！8月營收年增逾三成，台積電等概念股同步發酵-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdnByZ2ZHUENWY3YwX1pjYTI1NmZjYzhwTW9HdEhxcWN3NzFQcFc4RjhGQ21TMjZSQU50QWEzNXlzVVpOeS13Qk9XMXpPT0pINUZCaXFkRWlOLU1ZYmVKT1hjNTFzZTlzRWVrM284UVNraGE3Y0NJX1hnVDdINVN2dFBB?oc=5",
+      "published_at": "2026-09-16T07:00:00Z",
+      "collected_at": "2026-10-01T16:02:01Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器供應鏈需求爆發！8月營收年增逾三成，台積電等概念股同步發酵-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "台積電"
+      ],
       "subindustries": [
         "Compute Platform Subsystem"
       ],
@@ -5273,29 +6228,6 @@
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
     },
     {
-      "id": "a75c73dbd29885f0ebe2",
-      "status": "pending",
-      "title": "夏普攜手鴻海供應鏈，進軍 AI 伺服器市場 - technews.tw",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY3M2cWhteDQ0Ri0wbV93bTdqaThkVDc1eFU5OHFRUC0xeDV5YTNNUkFpM3ZiZlg1ZUtzNE5FMXkzdGdzakdqa3ZkUXdnb2ZzUGM3ZEM1cGxXQ3Z6d29qNXpJS3R0RlVmb1p3N1VGb3ZkZUFkVU9tc2hJZ0lQQU5jME1xaVBGejI5d2Nfem5RVE00TG5QZlF3YktobVcwQQ?oc=5",
-      "published_at": "2026-09-16T05:43:15Z",
-      "collected_at": "2026-09-17T14:08:03Z",
-      "source_name": "technews.tw",
-      "source_domain": "news.google.com",
-      "summary": "夏普攜手鴻海供應鏈，進軍 AI 伺服器市場 technews.tw",
-      "companies": [
-        "鴻海"
-      ],
-      "subindustries": [
-        "Compute Platform Subsystem"
-      ],
-      "system": "Compute System",
-      "event_type": "訂單／合作／認證",
-      "importance": "High",
-      "evidence_grade": "C",
-      "banking_implication": "待人工審核後補充。",
-      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
-    },
-    {
       "id": "b3bf91a5c8e3507c02f7",
       "status": "pending",
       "title": "夏普攜手鴻海供應鏈 進軍AI伺服器市場 - 經濟日報",
@@ -5361,29 +6293,6 @@
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
     },
     {
-      "id": "4e3684bbebc9b0228acd",
-      "status": "pending",
-      "title": "AI伺服器供應鏈需求爆發！8月營收年增逾三成，台積電等概念股同步發酵-財經焦點情報站 - cmnews.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdnByZ2ZHUENWY3YwX1pjYTI1NmZjYzhwTW9HdEhxcWN3NzFQcFc4RjhGQ21TMjZSQU50QWEzNXlzVVpOeS13Qk9XMXpPT0pINUZCaXFkRWlOLU1ZYmVKT1hjNTFzZTlzRWVrM284UVNraGE3Y0NJX1hnVDdINVN2dFBB?oc=5",
-      "published_at": "2026-09-15T20:52:03Z",
-      "collected_at": "2026-09-20T04:02:13Z",
-      "source_name": "cmnews.com.tw",
-      "source_domain": "news.google.com",
-      "summary": "AI伺服器供應鏈需求爆發！8月營收年增逾三成，台積電等概念股同步發酵-財經焦點情報站 cmnews.com.tw",
-      "companies": [
-        "台積電"
-      ],
-      "subindustries": [
-        "Compute Platform Subsystem"
-      ],
-      "system": "Compute System",
-      "event_type": "訂單／合作／認證",
-      "importance": "High",
-      "evidence_grade": "C",
-      "banking_implication": "待人工審核後補充。",
-      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
-    },
-    {
       "id": "b170d600512407282187",
       "status": "pending",
       "title": "《企業轉型篇》 AI浪潮下的臺灣新布局 硬體製造走向軟硬整合 在供應鏈重組中找商機 - 經貿透視雙周刊",
@@ -5397,29 +6306,6 @@
       "subindustries": [],
       "system": "跨系統／待分類",
       "event_type": "訂單／合作／認證",
-      "importance": "High",
-      "evidence_grade": "C",
-      "banking_implication": "待人工審核後補充。",
-      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
-    },
-    {
-      "id": "065cbedcdc1c4edddcba",
-      "status": "pending",
-      "title": "AI伺服器供應鏈動能強勁！台灣今年GDP上看12%，台積電產能滿載至明年-財經焦點情報站 - cmnews.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUnZwOTNfU0xtSk9nLVphSXpLM21tZDBDQzlYUDhaS1JVQkI1NmhOTUE4NW9FdEwzNEQ1aHdZUzZQRlRBQmlKSG5LbExHaTdqME1lcThFaU9YOHJETEtQQVpXd3RmTEpQdllHT0VyUV9NY0RSelZCRG5TdHpkV2dKaVh3?oc=5",
-      "published_at": "2026-09-15T09:31:21Z",
-      "collected_at": "2026-09-20T04:02:13Z",
-      "source_name": "cmnews.com.tw",
-      "source_domain": "news.google.com",
-      "summary": "AI伺服器供應鏈動能強勁！台灣今年GDP上看12%，台積電產能滿載至明年-財經焦點情報站 cmnews.com.tw",
-      "companies": [
-        "台積電"
-      ],
-      "subindustries": [
-        "Compute Platform Subsystem"
-      ],
-      "system": "Compute System",
-      "event_type": "CapEx／擴產",
       "importance": "High",
       "evidence_grade": "C",
       "banking_implication": "待人工審核後補充。",
@@ -5447,12 +6333,35 @@
       "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
     },
     {
+      "id": "065cbedcdc1c4edddcba",
+      "status": "pending",
+      "title": "AI伺服器供應鏈動能強勁！台灣今年GDP上看12%，台積電產能滿載至明年-財經焦點情報站 - cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUnZwOTNfU0xtSk9nLVphSXpLM21tZDBDQzlYUDhaS1JVQkI1NmhOTUE4NW9FdEwzNEQ1aHdZUzZQRlRBQmlKSG5LbExHaTdqME1lcThFaU9YOHJETEtQQVpXd3RmTEpQdllHT0VyUV9NY0RSelZCRG5TdHpkV2dKaVh3?oc=5",
+      "published_at": "2026-09-15T07:00:00Z",
+      "collected_at": "2026-10-01T16:02:00Z",
+      "source_name": "cmnews.com.tw",
+      "source_domain": "news.google.com",
+      "summary": "AI伺服器供應鏈動能強勁！台灣今年GDP上看12%，台積電產能滿載至明年-財經焦點情報站 cmnews.com.tw",
+      "companies": [
+        "台積電"
+      ],
+      "subindustries": [
+        "Compute Platform Subsystem"
+      ],
+      "system": "Compute System",
+      "event_type": "CapEx／擴產",
+      "importance": "High",
+      "evidence_grade": "C",
+      "banking_implication": "待人工審核後補充。",
+      "evidence_gap": "目前為新聞／RSS線索；須回查公司公告、MOPS或平台官方文件。"
+    },
+    {
       "id": "f1a930a67df60034d2fb",
       "status": "pending",
       "title": "雲端AI基建概念股解析！台美供應鏈分工、服務項目與技術優勢全攻略 - pocket.tw",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxN3BRSS1iN1BZejhKR2hUN1NTc0c2RFEzNnREUTZvcndBX1NNdldNMWxqVmE3djdIQWFjQjJJWEVuelZWZUZ2WXRGMkE5aUNNai1obW9PQ0JRVEhtZVU3eGVXZw?oc=5",
       "published_at": "2026-09-15T07:00:00Z",
-      "collected_at": "2026-10-01T04:52:39Z",
+      "collected_at": "2026-10-01T16:02:02Z",
       "source_name": "pocket.tw",
       "source_domain": "news.google.com",
       "summary": "雲端AI基建概念股解析！台美供應鏈分工、服務項目與技術優勢全攻略 pocket.tw",
@@ -5798,7 +6707,7 @@
       "title": "AI伺服器是什麼？從輝達GPU到台灣代工廠，2026年概念股完整地圖 - pocket.tw",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jVmpMd0tiMWFLWWZKb0dnQ1JCRkJrdVYzdTh3S0dzcWFHWFBBV3p1ZWZmakJNYmp1ME9wVWx6TmRiZ2pjZmVBX016SVdpWVF0emlxV2c4R0lRUFBUM004NXo1Yw?oc=5",
       "published_at": "2026-09-14T07:00:00Z",
-      "collected_at": "2026-10-01T04:52:38Z",
+      "collected_at": "2026-10-01T16:02:00Z",
       "source_name": "pocket.tw",
       "source_domain": "news.google.com",
       "summary": "AI伺服器是什麼？從輝達GPU到台灣代工廠，2026年概念股完整地圖 pocket.tw",
@@ -6264,7 +7173,7 @@
       "title": "AI 雙雄決戰台灣！輝達與 Google 爭搶供應鏈，台廠迎左右逢源新商機 - technews.tw",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWJEUnRDMmZaOUtpUmc1YVd3X1ZKYVN5dmoyZzN4a1VSNU45ZERtVHJnb1FLUXBjMUUtbUo3V081Y0ZzM0lSQXQtNllBV0JKSmdVVE9KRGJlbndPMnl4cGtlbV92V29ZdGxaQzcwZTNjY3ZjNVdsQno1YUVuV0pZRktsbDFFdUdIUkUtWVhqUWNuaUd3U3c?oc=5",
       "published_at": "2026-09-12T07:00:00Z",
-      "collected_at": "2026-09-28T17:23:56Z",
+      "collected_at": "2026-10-01T16:02:00Z",
       "source_name": "technews.tw",
       "source_domain": "news.google.com",
       "summary": "AI 雙雄決戰台灣！輝達與 Google 爭搶供應鏈，台廠迎左右逢源新商機 technews.tw",
@@ -6779,7 +7688,7 @@
       "title": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
       "url": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
       "published_at": "2026-09-10T09:00:00Z",
-      "collected_at": "2026-10-01T04:52:38Z",
+      "collected_at": "2026-10-01T16:01:59Z",
       "source_name": "NVIDIA Official｜Press Releases",
       "source_domain": "nvidianews.nvidia.com",
       "summary": "Palantir Technologies Inc. (NASDAQ: PLTR) and NVIDIA (NASDAQ: NVDA) today announced a collaboration to bring sovereign AI to critical supply chains, starting with NVIDIA’s own operations.",
@@ -6900,7 +7809,7 @@
       "title": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem",
       "url": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
       "published_at": "2026-09-10T00:00:00Z",
-      "collected_at": "2026-10-01T04:52:38Z",
+      "collected_at": "2026-10-01T16:01:59Z",
       "source_name": "NVIDIA Official｜Press Releases",
       "source_domain": "nvidianews.nvidia.com",
       "summary": "NVIDIA today announced that it is collaborating with a growing ecosystem of Australian NVIDIA Cloud Partners (NCPs) and AI infrastructure partners to expand land, power and shell capacity designed to host multiple generations of NVIDIA DSX™ AI factories, supporting the nation’s growing demand for AI compute — with up to a 2-gigawatt buildout by 2027.",
@@ -8666,7 +9575,7 @@
       "title": "AI資料中心建太快？ MIC：回收不如預期恐波及供應鏈 - Taiwan News",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05QUFwcU8xdFlOdThCd0V4ZzU3Q0V1a3dXdWpzeTQtNDM1dGF1cUxKMjUzbXhiUjBQSldvSUdldnNaRGdrdnh5X2lhU0VJWUxCUEg0QTk5Y0E?oc=5",
       "published_at": "2026-09-04T07:00:00Z",
-      "collected_at": "2026-10-01T04:52:39Z",
+      "collected_at": "2026-10-01T16:02:02Z",
       "source_name": "Taiwan News",
       "source_domain": "news.google.com",
       "summary": "AI資料中心建太快？ MIC：回收不如預期恐波及供應鏈 Taiwan News",
@@ -9121,7 +10030,7 @@
       "title": "全球資料中心資本支出上看 50 兆美元 電力、GPU成 AI 布局關鍵 - CIO Taiwan",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9qWU1oWTdQTXQ3UXdMbmg5V2d6Z2RPcU9jLXp6QXI0VUViMGFnVFBZcENSeDZPNUl3NG0zc0RnUjZPeWd1?oc=5",
       "published_at": "2026-09-03T07:00:00Z",
-      "collected_at": "2026-10-01T04:52:39Z",
+      "collected_at": "2026-10-01T16:02:02Z",
       "source_name": "CIO Taiwan",
       "source_domain": "news.google.com",
       "summary": "全球資料中心資本支出上看 50 兆美元 電力、GPU成 AI 布局關鍵 CIO Taiwan",
@@ -9161,7 +10070,7 @@
       "title": "全球 AI 基礎設施投資至 2050 年高達 31.6 兆美元，美國吸走近半資金 - technews.tw",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmw0Y1FZR05PZDZXNlhNekhJdTcwX015aGpZa3dkQkx4ZFNKRDl0LVlRMWhxUVBaMlE0THRTTHBuYmJLUEM5THdBZmdNbmQ4a2dVblhVQlc5R3dQamZFaW9KUWlvdU1zM3pQNkFuN3N4Mk5xbmZIVHV4VzdTd29RVEZMN3lhbkx6SFRJZUZSMUxSWlpT?oc=5",
       "published_at": "2026-09-03T07:00:00Z",
-      "collected_at": "2026-09-28T17:23:57Z",
+      "collected_at": "2026-10-01T16:02:02Z",
       "source_name": "technews.tw",
       "source_domain": "news.google.com",
       "summary": "全球 AI 基礎設施投資至 2050 年高達 31.6 兆美元，美國吸走近半資金 technews.tw",
