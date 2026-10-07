@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T15:43:02Z",
+  "generated_at": "2026-10-07T04:59:58Z",
   "items": [
     {
       "id": "15cf8383dd81db22c670",
@@ -2631,7 +2631,7 @@
       "title": "AMD to Acquire World Labs to Advance the Future of AI Compute",
       "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute",
       "published_at": "2026-09-28T20:05:00Z",
-      "collected_at": "2026-10-06T15:43:00Z",
+      "collected_at": "2026-10-07T04:59:30Z",
       "source_name": "AMD Official｜Press Releases",
       "source_domain": "ir.amd.com",
       "summary": "",
@@ -2768,7 +2768,7 @@
       "title": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase",
       "url": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase",
       "published_at": "2026-09-28T11:00:00Z",
-      "collected_at": "2026-10-06T15:42:59Z",
+      "collected_at": "2026-10-07T04:59:30Z",
       "source_name": "NVIDIA Official｜Press Releases",
       "source_domain": "nvidianews.nvidia.com",
       "summary": "NVIDIA today announced that its Board of Directors has authorized an additional $150 billion under the company’s existing share repurchase program, increasing the total remaining amount authorized to $235 billion.",
@@ -2829,7 +2829,7 @@
       "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
       "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
       "published_at": "2026-09-28T09:00:00Z",
-      "collected_at": "2026-10-06T15:42:59Z",
+      "collected_at": "2026-10-07T04:59:30Z",
       "source_name": "NVIDIA Official｜Press Releases",
       "source_domain": "nvidianews.nvidia.com",
       "summary": "NVIDIA today announced NVIDIA Open Agent Safety Platform, an open software platform and reference system design to strengthen AI security from agent testing to deployment, with full-stack governance and control across software and the hardware, compute and robotics systems that run agents.",
@@ -8997,7 +8997,7 @@
       "title": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
       "url": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
       "published_at": "2026-09-10T09:00:00Z",
-      "collected_at": "2026-10-06T15:42:59Z",
+      "collected_at": "2026-10-07T04:59:30Z",
       "source_name": "NVIDIA Official｜Press Releases",
       "source_domain": "nvidianews.nvidia.com",
       "summary": "Palantir Technologies Inc. (NASDAQ: PLTR) and NVIDIA (NASDAQ: NVDA) today announced a collaboration to bring sovereign AI to critical supply chains, starting with NVIDIA’s own operations.",
@@ -9118,7 +9118,7 @@
       "title": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia’s Data Center Ecosystem",
       "url": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
       "published_at": "2026-09-10T00:00:00Z",
-      "collected_at": "2026-10-06T15:42:59Z",
+      "collected_at": "2026-10-07T04:59:30Z",
       "source_name": "NVIDIA Official｜Press Releases",
       "source_domain": "nvidianews.nvidia.com",
       "summary": "NVIDIA today announced that it is collaborating with a growing ecosystem of Australian NVIDIA Cloud Partners (NCPs) and AI infrastructure partners to expand land, power and shell capacity designed to host multiple generations of NVIDIA DSX™ AI factories, supporting the nation’s growing demand for AI compute — with up to a 2-gigawatt buildout by 2027.",
@@ -32625,5 +32625,22 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVRwWXpuY2luZUZqTkpwdXBWa2s0Y0pwOHg1bE1aeDBQWFdrRnZ5RzRaMlhEOEFiUFkzTHlCRTAxZXc4c21JeFRES19mZHlVZ05tUEJTTWdIZ1FDenY5d3JKWG1lWVlTV0tEbjltT2ZPUndxTUN1QW1NQ2ppN1RsSHAyRlUwLWpE?oc=5"
     }
   ],
-  "collection_errors": []
+  "collection_errors": [
+    {
+      "feed": "Google News｜AI Infrastructure Taiwan",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "feed": "Google News｜AI伺服器供應鏈",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "feed": "Google News｜NVIDIA AMD Infrastructure",
+      "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "feed": "Google News｜AI CapEx",
+      "error": "HTTP Error 503: Service Unavailable"
+    }
+  ]
 }
